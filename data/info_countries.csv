@@ -1,0 +1,203 @@
+pais,ISO_3166-1,COI,FIFA,superficie_km2,poblacion,capital,idiomas_oficiales,moneda,Continente
+Albania,ALB,ALB,ALB,28.748,3.038.594,Tirana,Albanés,"Lek albanés(L, ALL)",Europa
+Alemania,DEU,GER,GER,357.022,80.722.792,Berlín,Alemán,"Euro(€, EUR).",Europa
+Andorra,AND,AND,AND,468,85.660,Andorra la Vieja,Catalán,"Euro[2]​(€, EUR).",Europa
+Armenia,ARM,ARM,ARM,29.800,3.229.900,Ereván,Armenio,"Dram armenio(դր., AMD).",Europa
+Austria,AUT,AUT,AUT,83.871,8.711.770,Viena,Alemán,"Euro(€, EUR).",Europa
+Azerbaiyán,AZE,AZE,AZE,86.600,9.872.765,Bakú,Azerí,"Manat azerbaiyano(m, AZN).",Europa
+Bélgica,BEL,BEL,BEL,30.528,11.409.077,Bruselas,FrancésNeerlandésAlemán,"Euro(€, EUR).",Europa
+Bielorrusia,BLR,BLR,BLR,207.600,9.570.376,Minsk,BielorrusoRuso,"Rublo bielorruso(br, BYR).",Europa
+Bosnia y Herzegovina,BIH,BIH,BIH,51.197,3.861.912,Sarajevo,BosnioCroataSerbio,"Marco bosnioherzegovino(KM, BAM).",Europa
+Bulgaria,BGR,BUL,BUL,110.879,7.144.653,Sofía,Búlgaro,"Lev(Лв, BGN).",Europa
+Chipre,CYP,CYP,CYP,9.251,1.205.575,Nicosia,GriegoTurco,"Euro(€, EUR).",Europa
+Croacia,HRV,CRO,CRO,56.594,4.313.707,Zagreb,Croata,"Kuna croata(kn., HRK).",Europa
+Dinamarca,DNK,DEN,DEN,43.094,5.593.785,Copenhague,Danés,"Corona danesa(kr., DKK).",Europa
+Eslovaquia,SVK,SVK,SVK,49.035,5.445.802,Bratislava,Eslovaco,"Euro(€, EUR).",Europa
+Eslovenia,SVN,SLO,SVN,20.273,1.978.029,Liubliana,Esloveno,"Euro(€, EUR).",Europa
+España,ESP,ESP,ESP,505.370,48.563.476,Madrid,Castellano,"Euro(€, EUR).",Europa
+Estonia,EST,EST,EST,45.228,1.258.545,Tallin,Estonio,"Euro(€, EUR).",Europa
+Finlandia,FIN,FIN,FIN,338.145,5.498.211,Helsinki,FinésSueco,"Euro(€, EUR).",Europa
+Francia,FRA,FRA,FRA,643.801,66.836.154,París,Francés,"Euro(€, EUR).",Europa
+Georgia,GEO,GEO,GEO,69.700,4.928.052,Tiflis,Georgiano,Lari georgiano(GEL).,Europa
+Grecia,GRC,GRE,GRE,131.957,10.773.253,Atenas,Griego,"Euro(€, EUR).",Europa
+Hungría,HUN,HUN,HUN,93.028,9.874.784,Budapest,Húngaro,"Forinto húngaro(Ft, HUF).",Europa
+Irlanda,IRL,IRL,IRL,70.273,4.952.473,Dublín,IrlandésInglés,"Euro(€, EUR).",Europa
+Islandia,ISL,ISL,ISL,103.000,335.878,Reikiavik,Islandés,"Corona islandesa(kr., ISK).",Europa
+Italia,ITA,ITA,ITA,301.340,62.007.540,Roma,Italiano,"Euro(€, EUR).",Europa
+Kazajistán,KAZ,KAZ,KAZ,2.724.900,18.360.353,Astaná,KazajoRuso,"Tenge kazajo(T, KZT).",Europa
+Letonia,LVA,LAT,LVA,64.589,1.965.686,Riga,Letón,"Euro(€, EUR).",Europa
+Liechtenstein,LIE,LIE,LIE,160,37.937,Vaduz,Alemán,"Franco suizo(Fr., CHF).",Europa
+Lituania,LTU,LTU,LTU,64.589,1.965.686,Vilna,Lituano,"Euro(€, EUR).",Europa
+Luxemburgo,LUX,LUX,LUX,2.586,582.291,Ciudad de Luxemburgo,LuxemburguésFrancésAlemán,"Euro(€, EUR).",Europa
+Macedonia del Norte,MKD,MKD,MKD,25.713,2.100.025,Skopie,Macedonio,"Denar macedonio(Ден., MKD).",Europa
+Malta,MLT,MLT,MLT,316,415.196,La Valeta,MaltésInglés,"Euro(€, EUR).",Europa
+Moldavia,MDA,MDA,MDA,33.851,3.510.485,Chisináu,Rumano,Leu moldavo(MDL).,Europa
+Mónaco,MCO,MON,,2,30.581,Ciudad de Mónaco,Francés,"Euro[2]​(€, EUR).",Europa
+Montenegro,MNE,MNE,MNE,13.812,644.578,Podgorica,Montenegrino,"Euro[3]​(€, EUR).",Europa
+Noruega,NOR,NOR,NOR,323.802,5.265.158,Oslo,Noruego,"Corona noruega(kr., NOK).",Europa
+Países Bajos,NLD,NED,NED,41.543[4]​,17.016.967,Ámsterdam,Neerlandés,"Euro(€, EUR).",Europa
+Polonia,POL,POL,POL,312.685,38.523.261,Varsovia,Polaco,"Złoty(zł, PLN).",Europa
+Portugal,PRT,POR,POR,92.090,10.833.816,Lisboa,Portugués,"Euro(€, EUR).",Europa
+Reino Unido,GBR,GBR,,243.610,64.430.428,Londres,InglésEscocésGalésIrlandés,"Libra esterlina(₤, GBP).",Europa
+República Checa,CZE,CZE,CZE,78.867,10.644.842,Praga,Checo,"Corona checa(Kč, CZK).",Europa
+Rumania,ROU,ROU,ROU,238.391,21.599.736,Bucarest,Rumano,Leu rumano(RON).,Europa
+Rusia,RUS,RUS,RUS,17.098.242,142.355.415,Moscú,Ruso,"Rublo ruso(₣, RUB).",Europa
+San Marino,SMR,SMR,SMR,61,33.285,Ciudad de San Marino,Italiano,"Euro[2]​(€, EUR).",Europa
+Serbia,SRB,SRB,SRB,77.474,7.143.921,Belgrado,Serbio,"Dinar serbio(дин., RSD).",Europa
+Suecia,SWE,SWE,SWE,450.295,9.880.604,Estocolmo,Sueco,"Corona sueca(kr., SEK).",Europa
+Suiza,CHE,SUI,SUI,41.277,8.179.294,Berna,AlemánFrancésItalianoRomanche,"Franco suizo(Fr., CHF).",Europa
+Turquía,TUR,TUR,TUR,783.562,80.274.604,Ankara,Turco,"Lira turca(TL, TRY).",Europa
+Ucrania,UKR,UKR,UKR,603.550,44.209.733,Kiev,Ucraniano,"Grivna(₴, UAH).",Europa
+Vaticano,VAT,,,044,1.000,Ciudad del Vaticano,LatínItaliano,"Euro[2]​(€, EUR).",Europa
+Afganistán,AFG,AFG,AFG,652.230,33.332.025,Kabul,PastúnPersa darí,"Afgani afgano(Af, AFN).",Asia
+Arabia Saudita,SAU,KSA,KSA,2.149.690,28.160.273,Riad,Árabe,"Riyal saudí(SR, SAR).",Asia
+Armenia,ARM,ARM,ARM,29 800,3 229 900,Ereván,Armenio,"Dram armenio(դր., AMD).",Asia
+Azerbaiyán,AZE,AZE,AZE,86 600,9 872 765,Bakú,Azerí,"Manat azerbaiyano(m, AZN).",Asia
+Bangladés,BGD,BAN,BAN,148 460,156 186 882,Daca,Bengalí,"Taka bangladesí(Tk, BDT).",Asia
+Baréin,BHR,BRN,BHR,760,1 378 904,Manama,Árabe,"Dinar bareiní(BD, BHD).",Asia
+Birmania,MMR,MYA,MYA,676 578,56 890 418,Naipyidó,Birmano,"Kyat birmano(K, MMK).",Asia
+Brunéi,BRN,BRU,BRU,5 765,436 620,Bandar Seri Begawan,Malayo,"Dólar de Brunéi(B$, BND).",Asia
+Bután,BTN,BHU,BHU,38 394,750 125,Timbu,Dzongkha,"Ngultrum butanés(Nu., BTN).",Asia
+Camboya,KHM,CAM,CAM,181 035,15 957 223,Nom Pen,Camboyano,"Riel camboyano(CR, KHR).",Asia
+Catar,QAT,QAT,QAT,11 586,2 258 283,Doha,Árabe,"Riyal catarí(QR, QAR).",Asia
+China,CHN,CHN,CHN,9 596 960[9]​,1 373 541 278,Pekín,Chino,"Renminbi chino(¥, CNY).",Asia
+Chipre,CYP,CYP,CYP,9251,1 205 575,Nicosia,GriegoTurco,"Euro(€, EUR).",Asia
+Corea del Norte,PRK,PRK,PRK,120 538,25 115 311,Pionyang,Coreano,"Won norcoreano(₩, KPW).",Asia
+Corea del Sur,KOR,KOR,KOR,99 720,50 924 172,Seúl,Coreano,"Won surcoreano(₩, KRW).",Asia
+Egipto,EGY,EGY,EGY,1 001 450,94 666 993,El Cairo,Árabe,"Libra egipcia(LE, £E, EGP)",Asia
+Emiratos Árabes Unidos,ARE,UAE,UAE,83 600,5 927 482,Abu Dabi,Árabe,"Dírham de los Emiratos Árabes Unidos(Dhs, AED).",Asia
+Filipinas,PHL,PHI,PHI,300 000,102 624 209,Manila,TagaloInglés,"Peso filipino(₱, PHP).",Asia
+Georgia,GEO,GEO,GEO,69 700,4 928 052,Tiflis,Georgiano,Lari georgiano(GEL).,Asia
+India,IND,IND,IND,3 287 263[10]​,1 266 883 598,Nueva Delhi,HindiInglés,"Rupia india(₹, INR).",Asia
+Indonesia,IDN,INA,IDN,1 904 569,258 316 051,Yakarta,Indonesio,"Rupia indonesia(Rp, IDR).",Asia
+Irak,IRQ,IRQ,IRQ,438 317,38 146 025,Bagdad,Árabe,"Dinar iraquí(ع.د, IQD).",Asia
+Irán,IRN,IRI,IRN,1 648 195,82 801 633,Teherán,Persa,Rial iraní(IRR).,Asia
+Japón,JPN,JPN,JPN,377 915,126 702 133,Tokio,Japonés,"Yen(¥, JPY).",Asia
+Jordania,JOR,JOR,JOR,89 342,8 185 384,Amán,Árabe,"Dinar jordano(JD., JOD).",Asia
+Kazajistán,KAZ,KAZ,KAZ,2 724 900,18 360 353,Astaná,KazajoRuso,"Tenge kazajo(T, KZT).",Asia
+Kirguistán,KGZ,KGZ,KGZ,199 951,5 727 553,Biskek,KirguísRuso,Som kirguís(KGS).,Asia
+Kuwait,KWT,KUW,KUW,17 818,2 832 776,Ciudad de Kuwait,Árabe,"Dinar kuwaití(د.ك, KWD).",Asia
+Laos,LAO,LAO,LAO,236 800,7 019 073,Vientián,Laosiano,"Kip laosiano(₭, LAK).",Asia
+Líbano,LBN,LBN,LBN,14 400,6 237 738,Beirut,Árabe,"Libra libanesa(د.ك, LBP).",Asia
+Maldivas,MDV,MDV,MDV,298,317 960,Malé,Maldivo,"Rupia de Maldivas(ރ, MVR).",Asia
+Malasia,MYS,MAS,MAS,329 847,30 949 962,Kuala Lumpur,Malayo,"Ringgit(RM, MYR)",Asia
+Mongolia,MNG,MGL,MNG,1 564 116,3 031 330,Ulán Bator,Mongol,"Tugrik mongol(₮, MNT).",Asia
+Nepal,NPL,NEP,NEP,147 181,29 033 914,Katmandú,Nepalí,"Rupia nepalí(Rs, NPR)",Asia
+Omán,OMN,OMA,OMA,309 500,3 355 262,Mascate,Árabe,"Rial omaní(ع., OMR).",Asia
+Pakistán,PAK,PAK,PAK,796 095,201 995 540,Islamabad,UrduInglés,"Rupia pakistaní(₴, PKR)",Asia
+Rusia,RUS,RUS,RUS,17 098 242,142 355 415,Moscú,Ruso,"Rublo ruso(₣, RUB).",Asia
+Singapur,SGP,SGP,SIN,697,5 781 728,Ciudad de Singapur,InglésMalayoChinoTamil,"Dólar de Singapur(S$, )",Asia
+Siria,SYR,SYR,SYR,185 180,17 185 170,Damasco,Árabe,"Libra siria(S£, SYP)",Asia
+Sri Lanka,LKA,SRI,SRI,65 610,22 235 000,Sri Jayawardenapura Kotte,CingalésTamil,"Rupia de Sri Lanka(Rs, LKR)",Asia
+Tailandia,THA,THA,THA,513 120,68 200 884,Bangkok,Tailandés,"Baht tailandés(฿, THB)",Asia
+Tayikistán,TJK,TJK,TJK,144 100,8 330 946,Dusambé,Tayiko,Somoni tayiko(TJS),Asia
+Timor Oriental,TLS,TLS,TLS,14 874,1 261 072,Dili,PortuguésTetun,"Dólar estadounidense($, USD)",Asia
+Turkmenistán,TJK,TJK,TJK,488 100,5 291 317,Asjabad,Turcomano,Manat turcomano(ман. TMT),Asia
+Turquía,TUR,TUR,TUR,783 562,75 627 384,Ankara,Turco,"Lira turca(TL, TRY)",Asia
+Uzbekistán,UZB,UZB,UZB,447 400,29 473 614,Taskent,Uzbeko,Som uzbeko(ман. UZS),Asia
+Vietnam,VNM,VIE,VIE,331 210,95 261 021,Hanói,Vietnamita,"Đồng vietnamita(₫, VND)",Asia
+Yemen,YEM,YEM,YEM,527 968,27 392 779,Saná,Árabe,Rial yemení(YER),Asia
+Angola,AGO,ANG,ANG,1 246 789,15 941 056,Luanda,,Kwanza,Africa
+Argelia,DZA,ALG,ALG,2 381 740,33 333 216,Argel,,Dinar argelino,Africa
+Benín,BEN,BEN,BEN,112 622,8 439 000,Porto Novo,,Franco CFA de África Occidental,Africa
+Botsuana,BWA,BOT,BOT,581 726,1 639 833,Gaborone,,Pula,Africa
+Burkina Faso,BFA,BUR,BFA,274 000,13 228 000,Uagadugú,,Franco CFA de África Occidental,Africa
+Burundi,BDI,BDI,BDI,27 830,7 548 000,Gitega,,Franco de Burundi,Africa
+Cabo Verde,CPV,CPV,CPV,4033,420 979,Praia,,Escudo caboverdiano,Africa
+Camerún,CMR,CMR,CMR,475 442,17 795 000,Yaundé,,Franco CFA,Africa
+Chad,TCD,CHA,CHA,1 284 000,10 146 000,Yamena,,Franco CFA de África Central,Africa
+Comoras,COM,COM,COM,2235,798 000,Moroni,,Franco comorano,Africa
+Costa de Marfil,CIV,CIV,CIV,322 460,17 654 843,Yamusukro,,Franco CFA de África Occidental,Africa
+Egipto,EGY,EGY,EGY,1 001 449,80 335 036,El Cairo,,Libra egipcia,Africa
+Eritrea,ERI,ERI,ERI,117 600,4 401 000,Asmara,,Nakfa,Africa
+Etiopía,ETH,ETH,ETH,1 104 300,75 067 000,Adís Abeba,,Birr,Africa
+Gabón,GAB,GAB,GAB,267 668,1 384 000,Libreville,,Franco CFA de África Central,Africa
+Gambia,GMB,GAM,GAM,10 380,1 517 000,Banjul,,Dalasi,Africa
+Ghana,GHA,GHA,GHA,238 534,23 000 000,Acra,,Cedi,Africa
+Guinea,GIN,GUI,GUI,245 857,9 402 000,Conakri,,Franco guineano,Africa
+Guinea-Bisáu,GNB,GBS,GNB,36 125,1 586 000,Bisáu,,Franco CFA de África Occidental,Africa
+Guinea Ecuatorial,GNQ,GEQ,EQG,28 051,504 000,Malabo,,Franco CFA de África Central,Africa
+Kenia,KEN,KEN,KEN,580 367,34 707 817,Nairobi,,Chelín keniano,Africa
+Lesoto,LSO,LES,LES,30 355,1 795 000,Maseru,,Loti,Africa
+Liberia,LBR,LBR,LBR,111 369,3 283 000,Monrovia,,Dólar liberiano,Africa
+Libia,LBY,LBA,LBY,1 759 540,6 036 914,Trípoli,,Dinar libio,Africa
+Madagascar,MDG,MAD,MAD,587 041,18 606 000,Antananarivo,,Ariary,Africa
+Malaui,MWI,MAW,MWI,118 484,12 884 000,Lilongüe,,Kwacha malauí,Africa
+Malí,MLI,MLI,MLI,1 240 192,13 518 000,Bamako,,Franco CFA de África Occidental,Africa
+Marruecos,MAR,MAR,MAR,446 550,33 757 175,Rabat,,Dirham marroquí,Africa
+Mauricio,MUS,MRI,MRI,2040,1 219 220,Port Louis,,Rupia de Mauricio,Africa
+Mauritania,MRT,MTN,MTN,1 030 700,3 069 000,Nuakchot,,Ouguiya,Africa
+Mozambique,MOZ,MOZ,MOZ,801 590,20 366 795,Maputo,,Metical mozambiqueño,Africa
+Namibia,NAM,NAM,NAM,825 418,2 031 000,Windhoek,,Dólar namibio,Africa
+Níger,NER,NIG,NIG,1 267 000,13 957 000,Niamey,,Franco CFA de África Occidental,Africa
+Nigeria,NGA,NGR,NGA,923 768,133 530 000,Abuya,,Naira,Africa
+República Centroafricana,CAF,CAF,CTA,622 984,4 216 666,Bangui,,Franco CFA de África Central,Africa
+República Democrática del Congo,COD,COD,COD,2 344 858,63 655 000,Kinsasa,,Franco congoleño,Africa
+República del Congo,COG,CGO,CGO,342 000,3 999 000,Brazzaville,,Franco CFA de África Central,Africa
+Sahara Occidental,ESH,,,266 000,587 020,"El Aaiún (declarada), Bir Lehlu (temporal)",,"Peseta saharaui, Dinar argelino",Africa
+Ruanda,RWA,RWA,RWA,26 798,7 600 000,Kigali,,Franco ruandés,Africa
+Santo Tomé y Príncipe,STP,STP,STP,964,157 000,Santo Tomé,,Dobra,Africa
+Senegal,SEN,SEN,SEN,196 723,11 658 000,Dakar,,Franco CFA de África Occidental,Africa
+Seychelles,SYC,SEY,SEY,451,80 654,Victoria,,Rupia de Seychelles,Africa
+Sierra Leona,SLE,SLE,SLE,71 740,6 144 562,Freetown,,Leone,Africa
+Somalia,SOM,SOM,SOM,637 661,17 700 000,Mogadiscio,,Chelín somalí,Africa
+Suazilandia,SWZ,SWZ,SWZ,17 364,1 032 000,Lobamba (legislativa)Mbabane (administrativa),,Lilangeni,Africa
+Sudáfrica,ZAF,RSA,RSA,1 221 037,47 432 000,Pretoria (ejecutiva)Bloemfontein (judicial)Ciudad del Cabo (legislativa),,Rand sudafricano,Africa
+Sudán,SDN,SUD,SDN,1 886 068,31 436 378,Jartum,,Libra sudanesa,Africa
+Sudán del Sur (República de Sudán del Sur),SSD,SSD,SSD,619 745,8 260 490,Yuba,,Libra sursudanesa,Africa
+Tanzania,TZA,TAN,TAN,945 087,37 849 133,Dodoma,,Chelín tanzano,Africa
+Togo,TGO,TOG,TOG,56 785,6 100 000,Lomé,,Franco CFA de África Occidental,Africa
+Túnez,TUN,TUN,TUN,163 610,10 102 000,Ciudad de Túnez,,Dinar tunecino,Africa
+Uganda,UGA,UGA,UGA,236 040,27 616 000,Kampala,,Chelín ugandés,Africa
+Yibuti,DJI,DJI,DJI,23 200,496 374,Ciudad de Yibuti,,Franco yibutiano,Africa
+Zambia,ZMB,ZAM,ZAM,752 614,9 582 418,Lusaka,,Kwacha zambiano,Africa
+Zimbabue,ZWE,ZIM,ZIM,390 580,13 271 000,Harare,,"Dólar de EE.UU., Pula",Africa
+Antigua y Barbuda,ATG,ANT,ATG,442,93 581,Saint John,Inglés,"Dólar del Caribe-Este(EC$, XCD).",América
+Argentina,ARG,ARG,ARG,2 780 400,53 886 748,Buenos Aires,Español,"Peso argentino($, ARS).",América
+Bahamas,BHS,BAH,BAH,13 880,327 316,Nasáu,Inglés,"Dólar de Bahamas(B$, BSD).",América
+Barbados,BRB,BAR,BRB,430,291 495,Bridgetown,Inglés,"Dólar de Barbados($, BBD).",América
+Belice,BLZ,BIZ,BLZ,22 966,353 858,Belmopán,Inglés,"Dólar beliceño($, BZD)",América
+Bolivia,BOL,BOL,BOL,1 098 581,10 969 649,Sucre[75]​,Español,"Boliviano(Bs., BOB).",América
+Brasil,BRA,BRA,BRA,8 514 877,205 823 665,Brasilia,Portugués,"Real(R$, BRL).",América
+Canadá,CAN,CAN,CAN,9 984 670,35 362 905,Ottawa,Inglés Francés,"Dólar canadiense(C$, CAD).",América
+Chile,CHL,CHI,CHI,756 102,17 650 114,Santiago,Español,"Peso chileno($, CLP).",América
+Colombia,COL,COL,COL,1 141 748,47 220 856,Bogotá,Español,"Peso colombiano($, COP).",América
+Costa Rica,CRI,CRC,CRC,51 100,4 872 543,San José,Español,"Colón(₡, CRC).",América
+Cuba,CUB,CUB,CUB,110 860,11 179 995,La Habana,Español,"Peso cubano($, CUP),Peso cubano convertible($, CUC).",América
+Dominica,DMA,DMA,DMA,751,73 757,Roseau,Inglés,"Dólar del Caribe Oriental(EC$, XCD).",América
+Ecuador,ECU,ECU,ECU,283 561,16 080 778,Quito,Español,"Dólar estadounidense($, USD).",América
+El Salvador,SLV,ESA,SLV,21 041,6 156 670,San Salvador,Español,"Dólar estadounidense($, USD).",América
+Estados Unidos,USA,USA,USA,9 371 174,323 995 528,Washington D. C.,InglésEspañol,"Dólar estadounidense($, USD).",América
+Granada,GRD,GRN,GRN,344,111 219,Saint George,Inglés,"Dólar del Caribe-Este(EC$, XCD).",América
+Guatemala,GTM,GUA,GUA,108 889,15 189 958,Ciudad de Guatemala,Español,"Quetzal (moneda)(Q, GTQ).",América
+Guyana,GUY,GUY,GUY,214 969,735 909,Georgetown,Inglés,"Dólar guyanés($,GYD).",América
+Haití,HTI,HAI,HAI,27 750,10 485 800,Puerto Príncipe,Francés Criollo haitiano,"Gourde(G, HTG).",América
+Honduras,HND,HON,HON,112 492,8 893 259,Tegucigalpa,Español,"Lempira(Lps, HNL).",América
+Jamaica,JAM,JAM,JAM,10 991,2 970 340,Kingston,Inglés,"Dólar jamaiquino($, JMD).",América
+México,MEX,MEX,MEX,1 964 375,123 166 749,Ciudad de México,Español,"Peso mexicano($, MXN).",América
+Nicaragua,NIC,NCA,NCA,130 370,7 317 798,Managua,Español,"Córdoba(C$, NIO).",América
+Panamá,PAN,PAN,PAN,75 420,3 705 246,Ciudad de Panamá,Español,"Balboa(฿, PAB)Dólar estadounidense($, USD).",América
+Paraguay,PRY,PAR,PAR,406 752,6 862 812,Asunción,Español Guaraní,"Guaraní(₲, PYG).",América
+Perú,PER,PER,PER,1 285 216,30 741 062,Lima,Español,Sol(S/) (PEN).,América
+República Dominicana,DOM,DOM,DOM,48 670,10 606 865,Santo Domingo,Español,"Peso dominicano(RD$, DOP).",América
+San Cristóbal y Nieves,KNA,SKN,SKN,261,52 329,Basseterre,Inglés,"Dólar del Caribe Oriental(EC$, XCD).",América
+San Vicente y las Granadinas,VCT,VIN,VIN,389,102 350,Kingstown,Inglés,"Dólar del Caribe Oriental(EC$, XCD).",América
+Santa Lucía,LCA,LCA,LCA,616,164 464,Castries,Inglés,"Dólar del Caribe Oriental(EC$, XCD).",América
+Surinam,SUR,SUR,SUR,163 820,585 824,Paramaribo,Neerlandés,"Dólar surinamés($, SRD).",América
+Trinidad y Tobago,TTO,TTO,TRI,5128,1 220 479,Puerto España,Inglés,"Dólar trinitense(TT$, TTD).",América
+Uruguay,URY,URU,URU,176 215,3 444 006,Montevideo,Español,"Peso uruguayo($, UYU).",América
+Venezuela,VEN,VEN,VEN,916 445,30 912 302,Caracas,Español,"Bolívar(Bs., VEF).",América
+Australia,AUS,AUS,AUS,7 692 030,19 483 000,Camberra,Inglés,Dólar australiano,Oceanía
+Fiyi,FJI,FIJ,FIJ,18 376,823 000,Suva,"Inglés, Fiyiano e Indostánico",Dólar fiyiano,Oceanía
+Kiribati,KIR,KIR,,811,95 000,Tarawa,Inglés y gilbertés,Dólar de Kiribati y Dólar australiano,Oceanía
+Islas Marshall,MHL,MHL,,181,53 000,Majuro,Marshalés e Inglés,Dólar estadounidense,Oceanía
+Micronesia,FSM,FSM,,700,122 000,Palikir,Inglés,Dólar estadounidense,Oceanía
+Nauru,NRU,NRU,,21,12 000,Yaren,Inglés y Nauruano,Dólar australiano,Oceanía
+Nueva Zelanda,NZL,NZL,NZL,270 534,3 939 000,Wellington,Inglés y Maori,dólar neozelandés,Oceanía
+Palaos,PLW,PLW,,508,20 000,Ngerulmud,"Inglés, palauano, japonés, angaur, tobiano y sonsorol",Dólar estadounidense,Oceanía
+Papúa Nueva Guinea,PNG,PNG,PNG,462 840,5 378 000,Puerto Moresby,"Inglés, Tok pisin (criollo o pidgin inglés), Hiri motu",Kina,Oceanía
+Islas Salomón,SLB,SOL,SOL,27 556,443 000,Honiara,Inglés y aproximadamente 87 lenguas nativas,Dólar de las Islas Salomón,Oceanía
+Samoa,WSM,SAM,SAM,2 831,176 000,Apia,Samoano e Inglés,Tala,Oceanía
+Tonga,TON,TGA,TGA,748,101 000,Nukualofa,"Tongano, Inglés",Pa'anga,Oceanía
+Tuvalu,TUV,TUV,,26,11 000,Funafuti,Tuvaluano e Inglés,Dólar tuvaluano y dólar australiano,Oceanía
+Vanuatu,VUT,VAN,VAN,12 190,206 000,Port Vila,"Bislama, francés, Inglés",Vatu,Oceanía

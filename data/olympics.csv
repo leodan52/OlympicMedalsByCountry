@@ -1,0 +1,172 @@
+Country,Country_name,Country_code_coi,ISO_3166-1,Continente,Num_Summer,gold_summer,silver_summer,bronze_summer,Total_summer,Num_Winter,gold_winter,silver_winter,bronze_winter,Total_winter,Num_Games,gold,silver,bronze,Combined_total
+Afghanistan (AFG),Afghanistan,AFG,AFG,Asia,16,0,0,2,2,0,0,0,0,0,16,0,0,2,2
+Albania (ALB),Albania,ALB,ALB,Europa,10,0,0,2,2,5,0,0,0,0,15,0,0,2,2
+Algeria (ALG),Algeria,ALG,DZA,Africa,15,7,4,9,20,3,0,0,0,0,18,7,4,9,20
+Argentina (ARG),Argentina,ARG,ARG,América,26,22,27,31,80,20,0,0,0,0,46,22,27,31,80
+Armenia (ARM),Armenia,ARM,ARM,Europa,8,2,11,9,22,8,0,0,0,0,16,2,11,9,22
+Armenia (ARM),Armenia,ARM,ARM,Asia,8,2,11,9,22,8,0,0,0,0,16,2,11,9,22
+Australasia (ANZ),Australasia,ANZ,,,2,3,4,5,12,0,0,0,0,0,2,3,4,5,12
+Australia (AUS),Australia,AUS,AUS,Oceanía,28,182,192,226,600,20,6,7,6,19,48,188,199,232,619
+Austria (AUT),Austria,AUT,AUT,Europa,29,22,35,44,101,24,71,88,91,250,53,93,123,135,351
+Azerbaijan (AZE),Azerbaijan,AZE,AZE,Europa,8,9,16,31,56,7,0,0,0,0,15,9,16,31,56
+Azerbaijan (AZE),Azerbaijan,AZE,AZE,Asia,8,9,16,31,56,7,0,0,0,0,15,9,16,31,56
+Bahamas (BAH),Bahamas,BAH,BHS,América,18,8,2,6,16,0,0,0,0,0,18,8,2,6,16
+Bahrain (BRN),Bahrain,BRN,BHR,Asia,11,4,3,1,8,0,0,0,0,0,11,4,3,1,8
+Barbados (BAR),Barbados,BAR,BRB,América,14,0,0,1,1,0,0,0,0,0,14,0,0,1,1
+Belarus (BLR),Belarus,BLR,BLR,Europa,7,13,30,42,85,8,8,7,5,20,15,21,37,47,105
+Belgium (BEL),Belgium,BEL,BEL,Europa,28,47,57,63,167,22,2,2,4,8,50,49,59,67,175
+Bermuda (BER),Bermuda,BER,,,20,1,0,1,2,8,0,0,0,0,28,1,0,1,2
+Bohemia (BOH),Bohemia,BOH,,,3,0,1,3,4,0,0,0,0,0,3,0,1,3,4
+Botswana (BOT),Botswana,BOT,BWA,Africa,12,1,2,1,4,0,0,0,0,0,12,1,2,1,4
+Brazil (BRA),Brazil,BRA,BRA,América,24,40,49,81,170,9,0,0,0,0,33,40,49,81,170
+British West Indies (BWI),British West Indies,BWI,,,1,0,0,2,2,0,0,0,0,0,1,0,0,2,2
+Bulgaria (BUL),Bulgaria,BUL,BGR,Europa,22,57,89,85,231,21,1,2,3,6,43,58,91,88,237
+Burkina Faso (BUR),Burkina Faso,BUR,BFA,Africa,11,0,0,1,1,0,0,0,0,0,11,0,0,1,1
+Burundi (BDI),Burundi,BDI,BDI,Africa,8,1,1,0,2,0,0,0,0,0,8,1,1,0,2
+Cameroon (CMR),Cameroon,CMR,CMR,Africa,16,3,1,2,6,1,0,0,0,0,17,3,1,2,6
+Canada (CAN),Canada,CAN,CAN,América,28,80,117,156,353,24,77,72,76,225,52,157,189,232,578
+Cape Verde (CPV),Cape Verde,CPV,CPV,Africa,8,0,0,1,1,0,0,0,0,0,8,0,0,1,1
+Chile (CHI),Chile,CHI,CHL,América,25,3,8,4,15,18,0,0,0,0,43,3,8,4,15
+China (CHN),China,CHN,CHN,Asia,12,303,226,198,727,12,22,32,23,77,24,325,258,221,804
+Colombia (COL),Colombia,COL,COL,América,21,5,16,17,38,3,0,0,0,0,24,5,16,17,38
+Costa Rica (CRC),Costa Rica,CRC,CRI,América,17,1,1,2,4,6,0,0,0,0,23,1,1,2,4
+Ivory Coast (CIV),Ivory Coast,CIV,CIV,Africa,15,1,1,3,5,0,0,0,0,0,15,1,1,3,5
+Croatia (CRO),Croatia,CRO,HRV,Europa,9,16,15,17,48,9,4,6,1,11,18,20,21,18,59
+Cuba (CUB),Cuba,CUB,CUB,América,22,86,70,88,244,0,0,0,0,0,22,86,70,88,244
+Cyprus (CYP),Cyprus,CYP,CYP,Europa,12,0,2,0,2,12,0,0,0,0,24,0,2,0,2
+Cyprus (CYP),Cyprus,CYP,CYP,Asia,12,0,2,0,2,12,0,0,0,0,24,0,2,0,2
+Czech Republic (CZE),Czech Republic,CZE,CZE,Europa,8,22,22,28,72,8,10,11,13,34,16,32,33,41,106
+Czechoslovakia (TCH),Czechoslovakia,TCH,,,16,49,49,45,143,16,2,8,15,25,32,51,57,60,168
+Denmark (DEN),Denmark,DEN,DNK,Europa,29,50,80,84,214,15,0,1,0,1,44,50,81,84,215
+Djibouti (DJI),Djibouti,DJI,DJI,Africa,10,0,0,1,1,0,0,0,0,0,10,0,0,1,1
+Dominica (DMA),Dominica,DMA,DMA,América,8,1,0,0,1,1,0,0,0,0,9,1,0,0,1
+Dominican Republic (DOM),Dominican Republic,DOM,DOM,América,16,4,5,6,15,0,0,0,0,0,16,4,5,6,15
+Ecuador (ECU),Ecuador,ECU,ECU,América,16,4,4,2,10,2,0,0,0,0,18,4,4,2,10
+Egypt (EGY),Egypt,EGY,EGY,Asia,24,9,12,20,41,1,0,0,0,0,25,9,12,20,41
+Egypt (EGY),Egypt,EGY,EGY,Africa,24,9,12,20,41,1,0,0,0,0,25,9,12,20,41
+Eritrea (ERI),Eritrea,ERI,ERI,Africa,7,0,0,1,1,2,0,0,0,0,9,0,0,1,1
+Estonia (EST),Estonia,EST,EST,Europa,14,10,9,17,36,11,4,2,2,8,25,14,11,19,44
+Ethiopia (ETH),Ethiopia,ETH,ETH,Africa,15,24,15,23,62,2,0,0,0,0,17,24,15,23,62
+Fiji (FIJ),Fiji,FIJ,FJI,Oceanía,16,2,1,1,4,3,0,0,0,0,19,2,1,1,4
+Finland (FIN),Finland,FIN,FIN,Europa,27,101,85,119,305,24,45,65,65,175,51,146,150,184,480
+France (FRA),France,FRA,FRA,Europa,30,239,277,299,815,24,41,42,55,138,54,280,319,354,953
+Gabon (GAB),Gabon,GAB,GAB,Africa,12,0,1,0,1,0,0,0,0,0,12,0,1,0,1
+Georgia (GEO),Georgia,GEO,GEO,Europa,8,13,15,19,47,8,0,0,0,0,16,13,15,19,47
+Georgia (GEO),Georgia,GEO,GEO,Asia,8,13,15,19,47,8,0,0,0,0,16,13,15,19,47
+Germany (GER),Germany,GER,DEU,Europa,18,213,220,255,688,13,104,98,65,267,31,317,318,320,955
+United Team of Germany (EUA),United Team of Germany,EUA,,,3,28,54,36,118,3,8,6,5,19,6,36,60,41,137
+East Germany (GDR),East Germany,GDR,,,5,153,129,127,409,6,39,36,35,110,11,192,165,162,519
+West Germany (FRG),West Germany,FRG,,,5,56,67,81,204,6,11,15,13,39,11,67,82,94,243
+Ghana (GHA),Ghana,GHA,GHA,Africa,16,0,1,4,5,3,0,0,0,0,19,0,1,4,5
+Great Britain (GBR),Great Britain,GBR,GBR,Europa,30,298,340,343,981,24,12,5,17,34,54,310,345,360,1015
+Greece (GRE),Greece,GRE,GRC,Europa,30,36,46,47,129,20,0,0,0,0,50,36,46,47,129
+Grenada (GRN),Grenada,GRN,GRD,América,11,1,1,3,5,0,0,0,0,0,11,1,1,3,5
+Guatemala (GUA),Guatemala,GUA,GTM,América,15,1,1,1,3,1,0,0,0,0,16,1,1,1,3
+Guyana (GUY),Guyana,GUY,GUY,América,19,0,0,1,1,0,0,0,0,0,19,0,0,1,1
+Haiti (HAI),Haiti,HAI,HTI,América,17,0,1,1,2,1,0,0,0,0,18,0,1,1,2
+Hong Kong (HKG),Hong Kong,HKG,,,18,4,3,6,13,6,0,0,0,0,24,4,3,6,13
+Hungary (HUN),Hungary,HUN,HUN,Europa,28,187,161,182,530,24,2,2,6,10,52,189,163,188,540
+Iceland (ISL),Iceland,ISL,ISL,Europa,22,0,2,2,4,19,0,0,0,0,41,0,2,2,4
+India (IND),India,IND,IND,Asia,26,10,10,21,41,11,0,0,0,0,37,10,10,21,41
+Indonesia (INA),Indonesia,INA,IDN,Asia,17,10,14,16,40,0,0,0,0,0,17,10,14,16,40
+Iran (IRI),Iran,IRI,IRN,Asia,18,27,29,32,88,12,0,0,0,0,30,27,29,32,88
+Iraq (IRQ),Iraq,IRQ,IRQ,Asia,16,0,0,1,1,0,0,0,0,0,16,0,0,1,1
+Ireland (IRL),Ireland,IRL,IRL,Europa,23,15,10,17,42,8,0,0,0,0,31,15,10,17,42
+Israel (ISR),Israel,ISR,,,18,4,6,10,20,8,0,0,0,0,26,4,6,10,20
+Italy (ITA),Italy,ITA,ITA,Europa,29,229,201,228,658,24,42,43,56,141,53,271,244,284,799
+Jamaica (JAM),Jamaica,JAM,JAM,América,19,27,39,28,94,9,0,0,0,0,28,27,39,28,94
+Japan (JPN),Japan,JPN,JPN,Asia,24,189,162,191,542,22,17,29,30,76,46,206,191,221,618
+Jordan (JOR),Jordan,JOR,JOR,Asia,12,1,2,1,4,0,0,0,0,0,12,1,2,1,4
+Kazakhstan (KAZ),Kazakhstan,KAZ,KAZ,Europa,8,15,25,38,78,8,1,3,4,8,16,16,28,42,86
+Kazakhstan (KAZ),Kazakhstan,KAZ,KAZ,Asia,8,15,25,38,78,8,1,3,4,8,16,16,28,42,86
+Kenya (KEN),Kenya,KEN,KEN,Africa,16,39,44,41,124,4,0,0,0,0,20,39,44,41,124
+Kosovo (KOS),Kosovo,KOS,,,3,3,1,1,5,2,0,0,0,0,5,3,1,1,5
+North Korea (PRK),North Korea,PRK,PRK,Asia,11,16,18,27,61,9,0,1,1,2,20,16,19,28,63
+South Korea (KOR),South Korea,KOR,KOR,Asia,19,109,100,111,320,19,33,30,16,79,38,142,130,127,399
+Kuwait (KUW),Kuwait,KUW,KWT,Asia,14,0,0,3,3,0,0,0,0,0,14,0,0,3,3
+Kyrgyzstan (KGZ),Kyrgyzstan,KGZ,KGZ,Asia,8,0,5,8,13,8,0,0,0,0,16,0,5,8,13
+Latvia (LAT),Latvia,LAT,LVA,Europa,13,4,11,6,21,12,1,3,6,10,25,5,14,12,31
+Lebanon (LBN),Lebanon,LBN,LBN,Asia,19,0,2,2,4,18,0,0,0,0,37,0,2,2,4
+Liechtenstein (LIE),Liechtenstein,LIE,LIE,Europa,19,0,0,0,0,20,2,2,6,10,39,2,2,6,10
+Lithuania (LTU),Lithuania,LTU,LTU,Europa,11,6,9,15,30,10,0,0,0,0,21,6,9,15,30
+Luxembourg (LUX),Luxembourg,LUX,LUX,Europa,26,2,1,0,3,10,0,2,0,2,36,2,3,0,5
+Malaysia (MAS),Malaysia,MAS,MYS,Asia,15,0,8,7,15,2,0,0,0,0,17,0,8,7,15
+Mauritius (MRI),Mauritius,MRI,MUS,Africa,11,0,0,1,1,0,0,0,0,0,11,0,0,1,1
+Mexico (MEX),Mexico,MEX,MEX,América,25,13,27,37,77,10,0,0,0,0,35,13,27,37,77
+Moldova (MDA),Moldova,MDA,MDA,Europa,8,0,3,7,10,8,0,0,0,0,16,0,3,7,10
+Mongolia (MGL),Mongolia,MGL,MNG,Asia,15,2,12,17,31,15,0,0,0,0,30,2,12,17,31
+Montenegro (MNE),Montenegro,MNE,MNE,Europa,5,0,1,0,1,4,0,0,0,0,9,0,1,0,1
+Morocco (MAR),Morocco,MAR,MAR,Africa,16,8,5,13,26,8,0,0,0,0,24,8,5,13,26
+Mozambique (MOZ),Mozambique,MOZ,MOZ,Africa,12,1,0,1,2,0,0,0,0,0,12,1,0,1,2
+Namibia (NAM),Namibia,NAM,NAM,Africa,9,0,5,0,5,0,0,0,0,0,9,0,5,0,5
+Netherlands (NED),Netherlands,NED,NLD,Europa,28,110,112,134,356,22,53,49,45,147,50,163,161,179,503
+Netherlands Antilles (AHO),Netherlands Antilles,AHO,,,13,0,1,0,1,2,0,0,0,0,15,0,1,0,1
+New Zealand (NZL),New Zealand,NZL,NZL,Oceanía,25,63,40,54,157,17,2,2,2,6,42,65,42,56,163
+Niger (NIG),Niger,NIG,NER,Africa,14,0,1,1,2,0,0,0,0,0,14,0,1,1,2
+Nigeria (NGR),Nigeria,NGR,NGA,Africa,18,3,11,13,27,2,0,0,0,0,20,3,11,13,27
+North Macedonia (MKD),North Macedonia,MKD,MKD,Europa,8,0,1,1,2,7,0,0,0,0,15,0,1,1,2
+Norway (NOR),Norway,NOR,NOR,Europa,28,65,53,53,171,24,148,134,123,405,52,213,187,176,576
+Pakistan (PAK),Pakistan,PAK,PAK,Asia,19,4,3,4,11,4,0,0,0,0,23,4,3,4,11
+Panama (PAN),Panama,PAN,PAN,América,19,1,1,2,4,0,0,0,0,0,19,1,1,2,4
+Paraguay (PAR),Paraguay,PAR,PRY,América,14,0,1,0,1,1,0,0,0,0,15,0,1,0,1
+Peru (PER),Peru,PER,PER,América,20,1,3,1,5,3,0,0,0,0,23,1,3,1,5
+Philippines (PHI),Philippines,PHI,PHL,Asia,23,3,5,10,18,6,0,0,0,0,29,3,5,10,18
+Poland (POL),Poland,POL,POL,Europa,23,73,93,142,308,24,7,7,9,23,47,80,100,151,331
+Portugal (POR),Portugal,POR,PRT,Europa,26,6,11,15,32,9,0,0,0,0,35,6,11,15,32
+Puerto Rico (PUR),Puerto Rico,PUR,,,20,2,2,8,12,8,0,0,0,0,28,2,2,8,12
+Qatar (QAT),Qatar,QAT,QAT,Asia,11,2,2,5,9,0,0,0,0,0,11,2,2,5,9
+Refugee Olympic Team (EOR),Refugee Olympic Team,EOR,,,3,0,0,1,1,0,0,0,0,0,3,0,0,1,1
+Romania (ROU),Romania,ROU,ROU,Europa,23,93,101,123,317,22,0,0,1,1,45,93,101,124,318
+Russia (RUS),Russia,RUS,RUS,Europa,6,147,126,150,423,6,47,39,35,121,12,194,165,185,544
+Russia (RUS),Russia,RUS,RUS,Asia,6,147,126,150,423,6,47,39,35,121,12,194,165,185,544
+Russian Empire (RU1),Russian Empire,RU1,,,3,1,4,3,8,0,0,0,0,0,3,1,4,3,8
+Soviet Union (URS),Soviet Union,URS,,,9,395,319,296,1010,9,78,57,59,194,18,473,376,355,1204
+Unified Team (EUN),Unified Team,EUN,,,1,45,38,29,112,1,9,6,8,23,2,54,44,37,135
+Olympic Athletes from Russia (OAR),Olympic Athletes from Russia,OAR,,,0,0,0,0,0,1,2,6,9,17,1,2,6,9,17
+ROC (ROC),ROC,ROC,,,1,20,28,23,71,1,5,12,15,32,2,25,40,38,103
+Samoa (SAM),Samoa,SAM,WSM,Oceanía,11,0,1,0,1,0,0,0,0,0,11,0,1,0,1
+Saint Lucia (LCA),Saint Lucia,LCA,LCA,América,8,1,1,0,2,0,0,0,0,0,8,1,1,0,2
+San Marino (SMR),San Marino,SMR,SMR,Europa,16,0,1,2,3,11,0,0,0,0,27,0,1,2,3
+Saudi Arabia (KSA),Saudi Arabia,KSA,SAU,Asia,13,0,2,2,4,1,0,0,0,0,14,0,2,2,4
+Senegal (SEN),Senegal,SEN,SEN,Africa,16,0,1,0,1,5,0,0,0,0,21,0,1,0,1
+Serbia (SRB),Serbia,SRB,SRB,Europa,6,9,8,12,29,4,0,0,0,0,10,9,8,12,29
+Serbia and Montenegro (SCG),Serbia and Montenegro,SCG,,,3,2,4,3,9,3,0,0,0,0,6,2,4,3,9
+Singapore (SGP),Singapore,SGP,SGP,Asia,18,1,2,3,6,1,0,0,0,0,19,1,2,3,6
+Slovakia (SVK),Slovakia,SVK,SVK,Europa,8,10,14,9,33,8,4,4,2,10,16,14,18,11,43
+Slovenia (SLO),Slovenia,SLO,SVN,Europa,9,10,10,11,31,9,4,8,12,24,18,14,18,23,55
+South Africa (RSA),South Africa,RSA,ZAF,Africa,21,28,36,31,95,7,0,0,0,0,28,28,36,31,95
+Spain (ESP),Spain,ESP,ESP,Europa,25,53,76,58,187,21,1,1,3,5,46,54,77,61,192
+Sri Lanka (SRI),Sri Lanka,SRI,LKA,Asia,19,0,2,0,2,0,0,0,0,0,19,0,2,0,2
+Sudan (SUD),Sudan,SUD,SDN,Africa,14,0,1,0,1,0,0,0,0,0,14,0,1,0,1
+Suriname (SUR),Suriname,SUR,SUR,América,14,1,0,1,2,0,0,0,0,0,14,1,0,1,2
+Sweden (SWE),Sweden,SWE,SWE,Europa,29,151,181,182,514,24,65,51,60,176,53,216,232,242,690
+Switzerland (SUI),Switzerland,SUI,CHE,Europa,30,54,81,79,214,24,63,47,58,168,54,117,128,137,382
+Syria (SYR),Syria,SYR,SYR,Asia,15,1,1,2,4,0,0,0,0,0,15,1,1,2,4
+Chinese Taipei (TPE),Chinese Taipei,TPE,,,16,9,11,23,43,13,0,0,0,0,29,9,11,23,43
+Tajikistan (TJK),Tajikistan,TJK,TJK,Asia,8,1,1,5,7,4,0,0,0,0,12,1,1,5,7
+Tajikistan (TJK),Tajikistan,TJK,TJK,Asia,8,1,1,5,7,4,0,0,0,0,12,1,1,5,7
+Tanzania (TAN),Tanzania,TAN,TZA,Africa,15,0,2,0,2,0,0,0,0,0,15,0,2,0,2
+Thailand (THA),Thailand,THA,THA,Asia,18,11,11,19,41,5,0,0,0,0,23,11,11,19,41
+Togo (TOG),Togo,TOG,TGO,Africa,12,0,0,1,1,2,0,0,0,0,14,0,0,1,1
+Tonga (TGA),Tonga,TGA,TON,Oceanía,11,0,1,0,1,2,0,0,0,0,13,0,1,0,1
+Trinidad and Tobago (TTO),Trinidad and Tobago,TTO,TTO,América,19,3,5,11,19,4,0,0,0,0,23,3,5,11,19
+Tunisia (TUN),Tunisia,TUN,TUN,Africa,16,6,4,8,18,0,0,0,0,0,16,6,4,8,18
+Turkey (TUR),Turkey,TUR,TUR,Europa,24,41,29,41,111,18,0,0,0,0,42,41,29,41,111
+Turkey (TUR),Turkey,TUR,TUR,Asia,24,41,29,41,111,18,0,0,0,0,42,41,29,41,111
+Turkmenistan (TKM),Turkmenistan,TKM,,,8,0,1,0,1,0,0,0,0,0,8,0,1,0,1
+Uganda (UGA),Uganda,UGA,UGA,Africa,17,5,5,3,13,0,0,0,0,0,17,5,5,3,13
+Ukraine (UKR),Ukraine,UKR,UKR,Europa,8,38,41,72,151,8,3,2,4,9,16,41,43,76,160
+United Arab Emirates (UAE),United Arab Emirates,UAE,ARE,Asia,11,1,0,1,2,0,0,0,0,0,11,1,0,1,2
+United States (USA),United States,USA,USA,América,29,1105,879,780,2764,24,114,121,95,330,53,1219,1000,875,3094
+Uruguay (URU),Uruguay,URU,URY,América,23,2,2,6,10,1,0,0,0,0,24,2,2,6,10
+Uzbekistan (UZB),Uzbekistan,UZB,UZB,Asia,8,18,8,23,49,8,1,0,0,1,16,19,8,23,50
+Venezuela (VEN),Venezuela,VEN,VEN,América,20,3,7,9,19,4,0,0,0,0,24,3,7,9,19
+Vietnam (VIE),Vietnam,VIE,VNM,Asia,17,1,3,1,5,0,0,0,0,0,17,1,3,1,5
+Virgin Islands (ISV),Virgin Islands,ISV,,,14,0,1,0,1,8,0,0,0,0,22,0,1,0,1
+Yugoslavia (YUG),Yugoslavia,YUG,,,16,26,29,28,83,14,0,3,1,4,30,26,32,29,87
+Zambia (ZAM),Zambia,ZAM,ZMB,Africa,15,0,1,2,3,0,0,0,0,0,15,0,1,2,3
+Zimbabwe (ZIM),Zimbabwe,ZIM,ZWE,Africa,15,3,4,1,8,1,0,0,0,0,16,3,4,1,8
+Individual Neutral Athletes (AIN),Individual Neutral Athletes,AIN,,,1,1,3,1,5,0,0,0,0,0,1,1,3,1,5
+Independent Olympic Athletes (IOA),Independent Olympic Athletes,IOA,,,3,1,0,1,2,0,0,0,0,0,3,1,0,1,2
+Independent Olympic Participants (IOP),Independent Olympic Participants,IOP,,,1,0,1,2,3,0,0,0,0,0,1,0,1,2,3
+Mixed team (ZZX),Mixed team,ZZX,,,3,11,6,8,25,0,0,0,0,0,3,11,6,8,25
