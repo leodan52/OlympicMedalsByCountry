@@ -1,4 +1,4 @@
-pais,ISO_3166-1,COI,FIFA,superficie_km2,poblacion,capital,idiomas_oficiales,moneda,Continente
+nombre,ISO_3166-1,COI,FIFA,superficie_km2,poblacion,capital,idiomas_oficiales,moneda,Continente
 Albania,ALB,ALB,ALB,28.748,3.038.594,Tirana,Albanés,"Lek albanés(L, ALL)",Europa
 Alemania,DEU,GER,GER,357.022,80.722.792,Berlín,Alemán,"Euro(€, EUR).",Europa
 Andorra,AND,AND,AND,468,85.660,Andorra la Vieja,Catalán,"Euro[2]​(€, EUR).",Europa
@@ -49,6 +49,8 @@ Suiza,CHE,SUI,SUI,41.277,8.179.294,Berna,AlemánFrancésItalianoRomanche,"Franco
 Turquía,TUR,TUR,TUR,783.562,80.274.604,Ankara,Turco,"Lira turca(TL, TRY).",Europa
 Ucrania,UKR,UKR,UKR,603.550,44.209.733,Kiev,Ucraniano,"Grivna(₴, UAH).",Europa
 Vaticano,VAT,,,044,1.000,Ciudad del Vaticano,LatínItaliano,"Euro[2]​(€, EUR).",Europa
+Abjasia,ABH,,,8.432,216.000,Sujumi,AbjasioRusoGeorgiano,"Apsar(Аҧ)Rublo ruso(₣, RUB).",Europa
+Osetia del Sur,RSO,,,3.900,70.000,Tsjinval,OsetioRusoGeorgiano,"Rublo ruso(₣, RUB).",Europa
 Afganistán,AFG,AFG,AFG,652.230,33.332.025,Kabul,PastúnPersa darí,"Afgani afgano(Af, AFN).",Asia
 Arabia Saudita,SAU,KSA,KSA,2.149.690,28.160.273,Riad,Árabe,"Riyal saudí(SR, SAR).",Asia
 Armenia,ARM,ARM,ARM,29 800,3 229 900,Ereván,Armenio,"Dram armenio(դր., AMD).",Asia
@@ -97,6 +99,15 @@ Turquía,TUR,TUR,TUR,783 562,75 627 384,Ankara,Turco,"Lira turca(TL, TRY)",Asia
 Uzbekistán,UZB,UZB,UZB,447 400,29 473 614,Taskent,Uzbeko,Som uzbeko(ман. UZS),Asia
 Vietnam,VNM,VIE,VIE,331 210,95 261 021,Hanói,Vietnamita,"Đồng vietnamita(₫, VND)",Asia
 Yemen,YEM,YEM,YEM,527 968,27 392 779,Saná,Árabe,Rial yemení(YER),Asia
+Abjasia,ABH,,,8 432,216 000,Sujumi,AbjasioRusoGeorgiano,"Apsar(Аҧ)Rublo ruso((₣, RUB).",Asia
+Israel,ISR,ISR,ISR,20 770,8 174 527,Jerusalén[12]​,HebreroÁrabe,"Nuevo séquel(₪, ILS).",Asia
+Palestina,PSE,PLE,PLE,6220,4 451 014,Jerusalén Este,Árabe,"Nuevo séquel(₪, ILS).",Asia
+Taiwán,TWN,TPE,TPE,35 980,23 464 787,Taipéi[13]​,Taiwanés,"Nuevo dólar taiwanés(NT$, TWD).",Asia
+Osetia del Sur,RSO,,,3900,70 000,Tsjinval,OsetioRusoGeorgiano,"Rublo ruso((₣, RUB).",Asia
+Isla de Navidad,CXR,,,135,2205,Flying Fish Cove,Inglés,"Dólar australiano($, AUD).",Asia
+Territorio Británico del Océano Índico,IOT,,,60,aprox. 3000,-,Inglés,"Dólar estadounidense($, USD)Libra esterlina(₤, GBP).",Asia
+Hong Kong,HKG,HKG,HKG,1 108,7 167 403,Hong Kong,CantonésInglés,"Dólar de Hong Kong (HK$, HKD)",Asia
+Macao,MAC,,MAC,28.2,597 425,Macao,CantonésPortugués,"Pataca macaense(MOP$, MOP).",Asia
 Angola,AGO,ANG,ANG,1 246 789,15 941 056,Luanda,,Kwanza,Africa
 Argelia,DZA,ALG,ALG,2 381 740,33 333 216,Argel,,Dinar argelino,Africa
 Benín,BEN,BEN,BEN,112 622,8 439 000,Porto Novo,,Franco CFA de África Occidental,Africa
@@ -187,6 +198,14 @@ Surinam,SUR,SUR,SUR,163 820,585 824,Paramaribo,Neerlandés,"Dólar surinamés($,
 Trinidad y Tobago,TTO,TTO,TRI,5128,1 220 479,Puerto España,Inglés,"Dólar trinitense(TT$, TTD).",América
 Uruguay,URY,URU,URU,176 215,3 444 006,Montevideo,Español,"Peso uruguayo($, UYU).",América
 Venezuela,VEN,VEN,VEN,916 445,30 912 302,Caracas,Español,"Bolívar(Bs., VEF).",América
+Aruba,ABW,ARU,ARU,180,113 648,Oranjestad,Neerlandés,"Florín arubeño(ƒ, AWG).",América
+Bermudas,BMU,BER,BER,54,70 537,Hamilton,Inglés,"Dólar bermudeño(BM$, BMD).",América
+Groenlandia,GRL,,,2 166 086,61 100,Nuuk,Groenlandés,"Corona danesa(kr, DKK).",América
+Islas Caimán,CYM,CAY,CAY,264,57 268,George Town,Inglés,"Dólar de las Islas Caimán($, KYD)",América
+Islas Malvinas,FLK,,,12 173,2931,Puerto Argentino/Stanley,Inglés,"Libra malvinense(£, FKP)",América
+Montserrat,MSR,,MSR,102,5267,Plymouth (de iure) Brades (de facto),Inglés,"Dólar del Caribe Oriental(EC$, XCD)",América
+Puerto Rico,PRI,PUR,PUR,8870,3 578 056,San Juan,EspañolInglés,"Dólar estadounidense($, USD).",América
+Martinica,MTQ,,,1100,413 417,Fort-de-France,Francés,"Euro(€, EUR).",América
 Australia,AUS,AUS,AUS,7 692 030,19 483 000,Camberra,Inglés,Dólar australiano,Oceanía
 Fiyi,FJI,FIJ,FIJ,18 376,823 000,Suva,"Inglés, Fiyiano e Indostánico",Dólar fiyiano,Oceanía
 Kiribati,KIR,KIR,,811,95 000,Tarawa,Inglés y gilbertés,Dólar de Kiribati y Dólar australiano,Oceanía
@@ -201,3 +220,11 @@ Samoa,WSM,SAM,SAM,2 831,176 000,Apia,Samoano e Inglés,Tala,Oceanía
 Tonga,TON,TGA,TGA,748,101 000,Nukualofa,"Tongano, Inglés",Pa'anga,Oceanía
 Tuvalu,TUV,TUV,,26,11 000,Funafuti,Tuvaluano e Inglés,Dólar tuvaluano y dólar australiano,Oceanía
 Vanuatu,VUT,VAN,VAN,12 190,206 000,Port Vila,"Bislama, francés, Inglés",Vatu,Oceanía
+Guam,GUM,GUM,GUM,549,163 941,Agaña,,,Asia
+Isla de Navidad,CXR,,,135,1 500,Flying Fish Cove,,,Asia
+Islas Cook,COK,COK,COK,240,21 400,Avarua,,,Asia
+Niue,NIU,,,260,2 200,Alofi,,,Asia
+Nueva Caledonia,NCL,,NCL,19 060,232 258,Numea,,,Asia
+Polinesia Francesa,PYF,,TAH,4 167,270 500,Papeete,,,Asia
+Tokelau,TKL,,,10,1 400,Atafu,,,Asia
+Wallis y Futuna,WLF,,,274,16 000,Mata Utu,,,Asia

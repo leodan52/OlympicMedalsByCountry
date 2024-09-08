@@ -15,7 +15,7 @@ Bahrain (BRN),Bahrain,BRN,BHR,Asia,11,4,3,1,8,0,0,0,0,0,11,4,3,1,8
 Barbados (BAR),Barbados,BAR,BRB,América,14,0,0,1,1,0,0,0,0,0,14,0,0,1,1
 Belarus (BLR),Belarus,BLR,BLR,Europa,7,13,30,42,85,8,8,7,5,20,15,21,37,47,105
 Belgium (BEL),Belgium,BEL,BEL,Europa,28,47,57,63,167,22,2,2,4,8,50,49,59,67,175
-Bermuda (BER),Bermuda,BER,,,20,1,0,1,2,8,0,0,0,0,28,1,0,1,2
+Bermuda (BER),Bermuda,BER,BMU,América,20,1,0,1,2,8,0,0,0,0,28,1,0,1,2
 Bohemia (BOH),Bohemia,BOH,,,3,0,1,3,4,0,0,0,0,0,3,0,1,3,4
 Botswana (BOT),Botswana,BOT,BWA,Africa,12,1,2,1,4,0,0,0,0,0,12,1,2,1,4
 Brazil (BRA),Brazil,BRA,BRA,América,24,40,49,81,170,9,0,0,0,0,33,40,49,81,170
@@ -64,7 +64,7 @@ Grenada (GRN),Grenada,GRN,GRD,América,11,1,1,3,5,0,0,0,0,0,11,1,1,3,5
 Guatemala (GUA),Guatemala,GUA,GTM,América,15,1,1,1,3,1,0,0,0,0,16,1,1,1,3
 Guyana (GUY),Guyana,GUY,GUY,América,19,0,0,1,1,0,0,0,0,0,19,0,0,1,1
 Haiti (HAI),Haiti,HAI,HTI,América,17,0,1,1,2,1,0,0,0,0,18,0,1,1,2
-Hong Kong (HKG),Hong Kong,HKG,,,18,4,3,6,13,6,0,0,0,0,24,4,3,6,13
+Hong Kong (HKG),Hong Kong,HKG,HKG,Asia,18,4,3,6,13,6,0,0,0,0,24,4,3,6,13
 Hungary (HUN),Hungary,HUN,HUN,Europa,28,187,161,182,530,24,2,2,6,10,52,189,163,188,540
 Iceland (ISL),Iceland,ISL,ISL,Europa,22,0,2,2,4,19,0,0,0,0,41,0,2,2,4
 India (IND),India,IND,IND,Asia,26,10,10,21,41,11,0,0,0,0,37,10,10,21,41
@@ -72,7 +72,7 @@ Indonesia (INA),Indonesia,INA,IDN,Asia,17,10,14,16,40,0,0,0,0,0,17,10,14,16,40
 Iran (IRI),Iran,IRI,IRN,Asia,18,27,29,32,88,12,0,0,0,0,30,27,29,32,88
 Iraq (IRQ),Iraq,IRQ,IRQ,Asia,16,0,0,1,1,0,0,0,0,0,16,0,0,1,1
 Ireland (IRL),Ireland,IRL,IRL,Europa,23,15,10,17,42,8,0,0,0,0,31,15,10,17,42
-Israel (ISR),Israel,ISR,,,18,4,6,10,20,8,0,0,0,0,26,4,6,10,20
+Israel (ISR),Israel,ISR,ISR,Asia,18,4,6,10,20,8,0,0,0,0,26,4,6,10,20
 Italy (ITA),Italy,ITA,ITA,Europa,29,229,201,228,658,24,42,43,56,141,53,271,244,284,799
 Jamaica (JAM),Jamaica,JAM,JAM,América,19,27,39,28,94,9,0,0,0,0,28,27,39,28,94
 Japan (JPN),Japan,JPN,JPN,Asia,24,189,162,191,542,22,17,29,30,76,46,206,191,221,618
@@ -113,7 +113,7 @@ Peru (PER),Peru,PER,PER,América,20,1,3,1,5,3,0,0,0,0,23,1,3,1,5
 Philippines (PHI),Philippines,PHI,PHL,Asia,23,3,5,10,18,6,0,0,0,0,29,3,5,10,18
 Poland (POL),Poland,POL,POL,Europa,23,73,93,142,308,24,7,7,9,23,47,80,100,151,331
 Portugal (POR),Portugal,POR,PRT,Europa,26,6,11,15,32,9,0,0,0,0,35,6,11,15,32
-Puerto Rico (PUR),Puerto Rico,PUR,,,20,2,2,8,12,8,0,0,0,0,28,2,2,8,12
+Puerto Rico (PUR),Puerto Rico,PUR,PRI,América,20,2,2,8,12,8,0,0,0,0,28,2,2,8,12
 Qatar (QAT),Qatar,QAT,QAT,Asia,11,2,2,5,9,0,0,0,0,0,11,2,2,5,9
 Refugee Olympic Team (EOR),Refugee Olympic Team,EOR,,,3,0,0,1,1,0,0,0,0,0,3,0,0,1,1
 Romania (ROU),Romania,ROU,ROU,Europa,23,93,101,123,317,22,0,0,1,1,45,93,101,124,318
@@ -142,8 +142,7 @@ Suriname (SUR),Suriname,SUR,SUR,América,14,1,0,1,2,0,0,0,0,0,14,1,0,1,2
 Sweden (SWE),Sweden,SWE,SWE,Europa,29,151,181,182,514,24,65,51,60,176,53,216,232,242,690
 Switzerland (SUI),Switzerland,SUI,CHE,Europa,30,54,81,79,214,24,63,47,58,168,54,117,128,137,382
 Syria (SYR),Syria,SYR,SYR,Asia,15,1,1,2,4,0,0,0,0,0,15,1,1,2,4
-Chinese Taipei (TPE),Chinese Taipei,TPE,,,16,9,11,23,43,13,0,0,0,0,29,9,11,23,43
-Tajikistan (TJK),Tajikistan,TJK,TJK,Asia,8,1,1,5,7,4,0,0,0,0,12,1,1,5,7
+Chinese Taipei (TPE),Chinese Taipei,TPE,TWN,Asia,16,9,11,23,43,13,0,0,0,0,29,9,11,23,43
 Tajikistan (TJK),Tajikistan,TJK,TJK,Asia,8,1,1,5,7,4,0,0,0,0,12,1,1,5,7
 Tanzania (TAN),Tanzania,TAN,TZA,Africa,15,0,2,0,2,0,0,0,0,0,15,0,2,0,2
 Thailand (THA),Thailand,THA,THA,Asia,18,11,11,19,41,5,0,0,0,0,23,11,11,19,41
