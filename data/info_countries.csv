@@ -1,230 +1,279 @@
-nombre,nombre_en,ISO_3166-1,COI,FIFA,superficie_km2,poblacion,capital,idiomas_oficiales,moneda,Continente
-Albania,Albania,ALB,ALB,ALB,28.748,3.038.594,Tirana,Albanés,"Lek albanés(L, ALL)",Europa
-Alemania,Germany,DEU,GER,GER,357.022,80.722.792,Berlín,Alemán,"Euro(€, EUR).",Europa
-Andorra,Andorra,AND,AND,AND,468,85.660,Andorra la Vieja,Catalán,"Euro[2]​(€, EUR).",Europa
-Armenia,Armenia,ARM,ARM,ARM,29.800,3.229.900,Ereván,Armenio,"Dram armenio(դր., AMD).",Europa
-Austria,Austria,AUT,AUT,AUT,83.871,8.711.770,Viena,Alemán,"Euro(€, EUR).",Europa
-Azerbaiyán,Azerbaijan,AZE,AZE,AZE,86.600,9.872.765,Bakú,Azerí,"Manat azerbaiyano(m, AZN).",Europa
-Bélgica,Belgium,BEL,BEL,BEL,30.528,11.409.077,Bruselas,FrancésNeerlandésAlemán,"Euro(€, EUR).",Europa
-Bielorrusia,Belarus,BLR,BLR,BLR,207.600,9.570.376,Minsk,BielorrusoRuso,"Rublo bielorruso(br, BYR).",Europa
-Bosnia y Herzegovina,Bosnia and Herzegovina,BIH,BIH,BIH,51.197,3.861.912,Sarajevo,BosnioCroataSerbio,"Marco bosnioherzegovino(KM, BAM).",Europa
-Bulgaria,Bulgaria,BGR,BUL,BUL,110.879,7.144.653,Sofía,Búlgaro,"Lev(Лв, BGN).",Europa
-Chipre,Cyprus,CYP,CYP,CYP,9.251,1.205.575,Nicosia,GriegoTurco,"Euro(€, EUR).",Europa
-Croacia,Croatia,HRV,CRO,CRO,56.594,4.313.707,Zagreb,Croata,"Kuna croata(kn., HRK).",Europa
-Dinamarca,Denmark,DNK,DEN,DEN,43.094,5.593.785,Copenhague,Danés,"Corona danesa(kr., DKK).",Europa
-Eslovaquia,Slovakia,SVK,SVK,SVK,49.035,5.445.802,Bratislava,Eslovaco,"Euro(€, EUR).",Europa
-Eslovenia,Slovenia,SVN,SLO,SVN,20.273,1.978.029,Liubliana,Esloveno,"Euro(€, EUR).",Europa
-España,Spain,ESP,ESP,ESP,505.370,48.563.476,Madrid,Castellano,"Euro(€, EUR).",Europa
-Estonia,Estonia,EST,EST,EST,45.228,1.258.545,Tallin,Estonio,"Euro(€, EUR).",Europa
-Finlandia,Finland,FIN,FIN,FIN,338.145,5.498.211,Helsinki,FinésSueco,"Euro(€, EUR).",Europa
-Francia,France,FRA,FRA,FRA,643.801,66.836.154,París,Francés,"Euro(€, EUR).",Europa
-Georgia,Georgia,GEO,GEO,GEO,69.700,4.928.052,Tiflis,Georgiano,Lari georgiano(GEL).,Europa
-Grecia,Greece,GRC,GRE,GRE,131.957,10.773.253,Atenas,Griego,"Euro(€, EUR).",Europa
-Hungría,Hungary,HUN,HUN,HUN,93.028,9.874.784,Budapest,Húngaro,"Forinto húngaro(Ft, HUF).",Europa
-Irlanda,Ireland,IRL,IRL,IRL,70.273,4.952.473,Dublín,IrlandésInglés,"Euro(€, EUR).",Europa
-Islandia,Iceland,ISL,ISL,ISL,103.000,335.878,Reikiavik,Islandés,"Corona islandesa(kr., ISK).",Europa
-Italia,Italy,ITA,ITA,ITA,301.340,62.007.540,Roma,Italiano,"Euro(€, EUR).",Europa
-Kazajistán,Kazakhstan,KAZ,KAZ,KAZ,2.724.900,18.360.353,Astaná,KazajoRuso,"Tenge kazajo(T, KZT).",Europa
-Letonia,Latvia,LVA,LAT,LVA,64.589,1.965.686,Riga,Letón,"Euro(€, EUR).",Europa
-Liechtenstein,Liechtenstein,LIE,LIE,LIE,160,37.937,Vaduz,Alemán,"Franco suizo(Fr., CHF).",Europa
-Lituania,Lithuania,LTU,LTU,LTU,64.589,1.965.686,Vilna,Lituano,"Euro(€, EUR).",Europa
-Luxemburgo,Luxembourg,LUX,LUX,LUX,2.586,582.291,Ciudad de Luxemburgo,LuxemburguésFrancésAlemán,"Euro(€, EUR).",Europa
-Macedonia del Norte,North Macedonia,MKD,MKD,MKD,25.713,2.100.025,Skopie,Macedonio,"Denar macedonio(Ден., MKD).",Europa
-Malta,Malta,MLT,MLT,MLT,316,415.196,La Valeta,MaltésInglés,"Euro(€, EUR).",Europa
-Moldavia,"Moldova, Republic of",MDA,MDA,MDA,33.851,3.510.485,Chisináu,Rumano,Leu moldavo(MDL).,Europa
-Mónaco,Monaco,MCO,MON,,2,30.581,Ciudad de Mónaco,Francés,"Euro[2]​(€, EUR).",Europa
-Montenegro,Montenegro,MNE,MNE,MNE,13.812,644.578,Podgorica,Montenegrino,"Euro[3]​(€, EUR).",Europa
-Noruega,Norway,NOR,NOR,NOR,323.802,5.265.158,Oslo,Noruego,"Corona noruega(kr., NOK).",Europa
-Países Bajos,Netherlands,NLD,NED,NED,41.543[4]​,17.016.967,Ámsterdam,Neerlandés,"Euro(€, EUR).",Europa
-Polonia,Poland,POL,POL,POL,312.685,38.523.261,Varsovia,Polaco,"Złoty(zł, PLN).",Europa
-Portugal,Portugal,PRT,POR,POR,92.090,10.833.816,Lisboa,Portugués,"Euro(€, EUR).",Europa
-Reino Unido,United Kingdom,GBR,GBR,,243.610,64.430.428,Londres,InglésEscocésGalésIrlandés,"Libra esterlina(₤, GBP).",Europa
-República Checa,Czechia,CZE,CZE,CZE,78.867,10.644.842,Praga,Checo,"Corona checa(Kč, CZK).",Europa
-Rumania,Romania,ROU,ROU,ROU,238.391,21.599.736,Bucarest,Rumano,Leu rumano(RON).,Europa
-Rusia,Russian Federation,RUS,RUS,RUS,17.098.242,142.355.415,Moscú,Ruso,"Rublo ruso(₣, RUB).",Europa
-San Marino,San Marino,SMR,SMR,SMR,61,33.285,Ciudad de San Marino,Italiano,"Euro[2]​(€, EUR).",Europa
-Serbia,Serbia,SRB,SRB,SRB,77.474,7.143.921,Belgrado,Serbio,"Dinar serbio(дин., RSD).",Europa
-Suecia,Sweden,SWE,SWE,SWE,450.295,9.880.604,Estocolmo,Sueco,"Corona sueca(kr., SEK).",Europa
-Suiza,Switzerland,CHE,SUI,SUI,41.277,8.179.294,Berna,AlemánFrancésItalianoRomanche,"Franco suizo(Fr., CHF).",Europa
-Turquía,Türkiye,TUR,TUR,TUR,783.562,80.274.604,Ankara,Turco,"Lira turca(TL, TRY).",Europa
-Ucrania,Ukraine,UKR,UKR,UKR,603.550,44.209.733,Kiev,Ucraniano,"Grivna(₴, UAH).",Europa
-Vaticano,Holy See (Vatican City State),VAT,,,044,1.000,Ciudad del Vaticano,LatínItaliano,"Euro[2]​(€, EUR).",Europa
-Abjasia,,ABH,,,8.432,216.000,Sujumi,AbjasioRusoGeorgiano,"Apsar(Аҧ)Rublo ruso(₣, RUB).",Europa
-Osetia del Sur,,RSO,,,3.900,70.000,Tsjinval,OsetioRusoGeorgiano,"Rublo ruso(₣, RUB).",Europa
-Afganistán,Afghanistan,AFG,AFG,AFG,652.230,33.332.025,Kabul,PastúnPersa darí,"Afgani afgano(Af, AFN).",Asia
-Arabia Saudita,Saudi Arabia,SAU,KSA,KSA,2.149.690,28.160.273,Riad,Árabe,"Riyal saudí(SR, SAR).",Asia
-Armenia,Armenia,ARM,ARM,ARM,29 800,3 229 900,Ereván,Armenio,"Dram armenio(դր., AMD).",Asia
-Azerbaiyán,Azerbaijan,AZE,AZE,AZE,86 600,9 872 765,Bakú,Azerí,"Manat azerbaiyano(m, AZN).",Asia
-Bangladés,Bangladesh,BGD,BAN,BAN,148 460,156 186 882,Daca,Bengalí,"Taka bangladesí(Tk, BDT).",Asia
-Baréin,Bahrain,BHR,BRN,BHR,760,1 378 904,Manama,Árabe,"Dinar bareiní(BD, BHD).",Asia
-Birmania,Myanmar,MMR,MYA,MYA,676 578,56 890 418,Naipyidó,Birmano,"Kyat birmano(K, MMK).",Asia
-Brunéi,Brunei Darussalam,BRN,BRU,BRU,5 765,436 620,Bandar Seri Begawan,Malayo,"Dólar de Brunéi(B$, BND).",Asia
-Bután,Bhutan,BTN,BHU,BHU,38 394,750 125,Timbu,Dzongkha,"Ngultrum butanés(Nu., BTN).",Asia
-Camboya,Cambodia,KHM,CAM,CAM,181 035,15 957 223,Nom Pen,Camboyano,"Riel camboyano(CR, KHR).",Asia
-Catar,Qatar,QAT,QAT,QAT,11 586,2 258 283,Doha,Árabe,"Riyal catarí(QR, QAR).",Asia
-China,China,CHN,CHN,CHN,9 596 960[9]​,1 373 541 278,Pekín,Chino,"Renminbi chino(¥, CNY).",Asia
-Chipre,Cyprus,CYP,CYP,CYP,9251,1 205 575,Nicosia,GriegoTurco,"Euro(€, EUR).",Asia
-Corea del Norte,"Korea, Democratic People's Republic of",PRK,PRK,PRK,120 538,25 115 311,Pionyang,Coreano,"Won norcoreano(₩, KPW).",Asia
-Corea del Sur,"Korea, Republic of",KOR,KOR,KOR,99 720,50 924 172,Seúl,Coreano,"Won surcoreano(₩, KRW).",Asia
-Egipto,Egypt,EGY,EGY,EGY,1 001 450,94 666 993,El Cairo,Árabe,"Libra egipcia(LE, £E, EGP)",Asia
-Emiratos Árabes Unidos,United Arab Emirates,ARE,UAE,UAE,83 600,5 927 482,Abu Dabi,Árabe,"Dírham de los Emiratos Árabes Unidos(Dhs, AED).",Asia
-Filipinas,Philippines,PHL,PHI,PHI,300 000,102 624 209,Manila,TagaloInglés,"Peso filipino(₱, PHP).",Asia
-Georgia,Georgia,GEO,GEO,GEO,69 700,4 928 052,Tiflis,Georgiano,Lari georgiano(GEL).,Asia
-India,India,IND,IND,IND,3 287 263[10]​,1 266 883 598,Nueva Delhi,HindiInglés,"Rupia india(₹, INR).",Asia
-Indonesia,Indonesia,IDN,INA,IDN,1 904 569,258 316 051,Yakarta,Indonesio,"Rupia indonesia(Rp, IDR).",Asia
-Irak,Iraq,IRQ,IRQ,IRQ,438 317,38 146 025,Bagdad,Árabe,"Dinar iraquí(ع.د, IQD).",Asia
-Irán,"Iran, Islamic Republic of",IRN,IRI,IRN,1 648 195,82 801 633,Teherán,Persa,Rial iraní(IRR).,Asia
-Japón,Japan,JPN,JPN,JPN,377 915,126 702 133,Tokio,Japonés,"Yen(¥, JPY).",Asia
-Jordania,Jordan,JOR,JOR,JOR,89 342,8 185 384,Amán,Árabe,"Dinar jordano(JD., JOD).",Asia
-Kazajistán,Kazakhstan,KAZ,KAZ,KAZ,2 724 900,18 360 353,Astaná,KazajoRuso,"Tenge kazajo(T, KZT).",Asia
-Kirguistán,Kyrgyzstan,KGZ,KGZ,KGZ,199 951,5 727 553,Biskek,KirguísRuso,Som kirguís(KGS).,Asia
-Kuwait,Kuwait,KWT,KUW,KUW,17 818,2 832 776,Ciudad de Kuwait,Árabe,"Dinar kuwaití(د.ك, KWD).",Asia
-Laos,Lao People's Democratic Republic,LAO,LAO,LAO,236 800,7 019 073,Vientián,Laosiano,"Kip laosiano(₭, LAK).",Asia
-Líbano,Lebanon,LBN,LBN,LBN,14 400,6 237 738,Beirut,Árabe,"Libra libanesa(د.ك, LBP).",Asia
-Maldivas,Maldives,MDV,MDV,MDV,298,317 960,Malé,Maldivo,"Rupia de Maldivas(ރ, MVR).",Asia
-Malasia,Malaysia,MYS,MAS,MAS,329 847,30 949 962,Kuala Lumpur,Malayo,"Ringgit(RM, MYR)",Asia
-Mongolia,Mongolia,MNG,MGL,MNG,1 564 116,3 031 330,Ulán Bator,Mongol,"Tugrik mongol(₮, MNT).",Asia
-Nepal,Nepal,NPL,NEP,NEP,147 181,29 033 914,Katmandú,Nepalí,"Rupia nepalí(Rs, NPR)",Asia
-Omán,Oman,OMN,OMA,OMA,309 500,3 355 262,Mascate,Árabe,"Rial omaní(ع., OMR).",Asia
-Pakistán,Pakistan,PAK,PAK,PAK,796 095,201 995 540,Islamabad,UrduInglés,"Rupia pakistaní(₴, PKR)",Asia
-Rusia,Russian Federation,RUS,RUS,RUS,17 098 242,142 355 415,Moscú,Ruso,"Rublo ruso(₣, RUB).",Asia
-Singapur,Singapore,SGP,SGP,SIN,697,5 781 728,Ciudad de Singapur,InglésMalayoChinoTamil,"Dólar de Singapur(S$, )",Asia
-Siria,Syrian Arab Republic,SYR,SYR,SYR,185 180,17 185 170,Damasco,Árabe,"Libra siria(S£, SYP)",Asia
-Sri Lanka,Sri Lanka,LKA,SRI,SRI,65 610,22 235 000,Sri Jayawardenapura Kotte,CingalésTamil,"Rupia de Sri Lanka(Rs, LKR)",Asia
-Tailandia,Thailand,THA,THA,THA,513 120,68 200 884,Bangkok,Tailandés,"Baht tailandés(฿, THB)",Asia
-Tayikistán,Tajikistan,TJK,TJK,TJK,144 100,8 330 946,Dusambé,Tayiko,Somoni tayiko(TJS),Asia
-Timor Oriental,Timor-Leste,TLS,TLS,TLS,14 874,1 261 072,Dili,PortuguésTetun,"Dólar estadounidense($, USD)",Asia
-Turkmenistán,Turkmenistan,TKM,TKM,TKM,488 100,5 291 317,Asjabad,Turcomano,Manat turcomano(ман. TMT),Asia
-Turquía,Türkiye,TUR,TUR,TUR,783 562,75 627 384,Ankara,Turco,"Lira turca(TL, TRY)",Asia
-Uzbekistán,Uzbekistan,UZB,UZB,UZB,447 400,29 473 614,Taskent,Uzbeko,Som uzbeko(ман. UZS),Asia
-Vietnam,Viet Nam,VNM,VIE,VIE,331 210,95 261 021,Hanói,Vietnamita,"Đồng vietnamita(₫, VND)",Asia
-Yemen,Yemen,YEM,YEM,YEM,527 968,27 392 779,Saná,Árabe,Rial yemení(YER),Asia
-Abjasia,,ABH,,,8 432,216 000,Sujumi,AbjasioRusoGeorgiano,"Apsar(Аҧ)Rublo ruso((₣, RUB).",Asia
-Israel,Israel,ISR,ISR,ISR,20 770,8 174 527,Jerusalén[12]​,HebreroÁrabe,"Nuevo séquel(₪, ILS).",Asia
-Palestina,"Palestine, State of",PSE,PLE,PLE,6220,4 451 014,Jerusalén Este,Árabe,"Nuevo séquel(₪, ILS).",Asia
-Taiwán,"Taiwan, Province of China",TWN,TPE,TPE,35 980,23 464 787,Taipéi[13]​,Taiwanés,"Nuevo dólar taiwanés(NT$, TWD).",Asia
-Osetia del Sur,,RSO,,,3900,70 000,Tsjinval,OsetioRusoGeorgiano,"Rublo ruso((₣, RUB).",Asia
-Isla de Navidad,Christmas Island,CXR,,,135,2205,Flying Fish Cove,Inglés,"Dólar australiano($, AUD).",Asia
-Territorio Británico del Océano Índico,British Indian Ocean Territory,IOT,,,60,aprox. 3000,-,Inglés,"Dólar estadounidense($, USD)Libra esterlina(₤, GBP).",Asia
-Hong Kong,Hong Kong,HKG,HKG,HKG,1 108,7 167 403,Hong Kong,CantonésInglés,"Dólar de Hong Kong (HK$, HKD)",Asia
-Macao,Macao,MAC,,MAC,28.2,597 425,Macao,CantonésPortugués,"Pataca macaense(MOP$, MOP).",Asia
-Angola,Angola,AGO,ANG,ANG,1 246 789,15 941 056,Luanda,,Kwanza,África
-Argelia,Algeria,DZA,ALG,ALG,2 381 740,33 333 216,Argel,,Dinar argelino,África
-Benín,Benin,BEN,BEN,BEN,112 622,8 439 000,Porto Novo,,Franco CFA de África Occidental,África
-Botsuana,Botswana,BWA,BOT,BOT,581 726,1 639 833,Gaborone,,Pula,África
-Burkina Faso,Burkina Faso,BFA,BUR,BFA,274 000,13 228 000,Uagadugú,,Franco CFA de África Occidental,África
-Burundi,Burundi,BDI,BDI,BDI,27 830,7 548 000,Gitega,,Franco de Burundi,África
-Cabo Verde,Cabo Verde,CPV,CPV,CPV,4033,420 979,Praia,,Escudo caboverdiano,África
-Camerún,Cameroon,CMR,CMR,CMR,475 442,17 795 000,Yaundé,,Franco CFA,África
-Chad,Chad,TCD,CHA,CHA,1 284 000,10 146 000,Yamena,,Franco CFA de África Central,África
-Comoras,Comoros,COM,COM,COM,2235,798 000,Moroni,,Franco comorano,África
-Costa de Marfil,Côte d'Ivoire,CIV,CIV,CIV,322 460,17 654 843,Yamusukro,,Franco CFA de África Occidental,África
-Egipto,Egypt,EGY,EGY,EGY,1 001 449,80 335 036,El Cairo,,Libra egipcia,África
-Eritrea,Eritrea,ERI,ERI,ERI,117 600,4 401 000,Asmara,,Nakfa,África
-Etiopía,Ethiopia,ETH,ETH,ETH,1 104 300,75 067 000,Adís Abeba,,Birr,África
-Gabón,Gabon,GAB,GAB,GAB,267 668,1 384 000,Libreville,,Franco CFA de África Central,África
-Gambia,Gambia,GMB,GAM,GAM,10 380,1 517 000,Banjul,,Dalasi,África
-Ghana,Ghana,GHA,GHA,GHA,238 534,23 000 000,Acra,,Cedi,África
-Guinea,Guinea,GIN,GUI,GUI,245 857,9 402 000,Conakri,,Franco guineano,África
-Guinea-Bisáu,Guinea-Bissau,GNB,GBS,GNB,36 125,1 586 000,Bisáu,,Franco CFA de África Occidental,África
-Guinea Ecuatorial,Equatorial Guinea,GNQ,GEQ,EQG,28 051,504 000,Malabo,,Franco CFA de África Central,África
-Kenia,Kenya,KEN,KEN,KEN,580 367,34 707 817,Nairobi,,Chelín keniano,África
-Lesoto,Lesotho,LSO,LES,LES,30 355,1 795 000,Maseru,,Loti,África
-Liberia,Liberia,LBR,LBR,LBR,111 369,3 283 000,Monrovia,,Dólar liberiano,África
-Libia,Libya,LBY,LBA,LBY,1 759 540,6 036 914,Trípoli,,Dinar libio,África
-Madagascar,Madagascar,MDG,MAD,MAD,587 041,18 606 000,Antananarivo,,Ariary,África
-Malaui,Malawi,MWI,MAW,MWI,118 484,12 884 000,Lilongüe,,Kwacha malauí,África
-Malí,Mali,MLI,MLI,MLI,1 240 192,13 518 000,Bamako,,Franco CFA de África Occidental,África
-Marruecos,Morocco,MAR,MAR,MAR,446 550,33 757 175,Rabat,,Dirham marroquí,África
-Mauricio,Mauritius,MUS,MRI,MRI,2040,1 219 220,Port Louis,,Rupia de Mauricio,África
-Mauritania,Mauritania,MRT,MTN,MTN,1 030 700,3 069 000,Nuakchot,,Ouguiya,África
-Mozambique,Mozambique,MOZ,MOZ,MOZ,801 590,20 366 795,Maputo,,Metical mozambiqueño,África
-Namibia,Namibia,NAM,NAM,NAM,825 418,2 031 000,Windhoek,,Dólar namibio,África
-Níger,Niger,NER,NIG,NIG,1 267 000,13 957 000,Niamey,,Franco CFA de África Occidental,África
-Nigeria,Nigeria,NGA,NGR,NGA,923 768,133 530 000,Abuya,,Naira,África
-República Centroafricana,Central African Republic,CAF,CAF,CTA,622 984,4 216 666,Bangui,,Franco CFA de África Central,África
-República Democrática del Congo,"Congo, The Democratic Republic of the",COD,COD,COD,2 344 858,63 655 000,Kinsasa,,Franco congoleño,África
-República del Congo,Congo,COG,CGO,CGO,342 000,3 999 000,Brazzaville,,Franco CFA de África Central,África
-Sahara Occidental,Western Sahara,ESH,,,266 000,587 020,"El Aaiún (declarada), Bir Lehlu (temporal)",,"Peseta saharaui, Dinar argelino",África
-Ruanda,Rwanda,RWA,RWA,RWA,26 798,7 600 000,Kigali,,Franco ruandés,África
-Santo Tomé y Príncipe,Sao Tome and Principe,STP,STP,STP,964,157 000,Santo Tomé,,Dobra,África
-Senegal,Senegal,SEN,SEN,SEN,196 723,11 658 000,Dakar,,Franco CFA de África Occidental,África
-Seychelles,Seychelles,SYC,SEY,SEY,451,80 654,Victoria,,Rupia de Seychelles,África
-Sierra Leona,Sierra Leone,SLE,SLE,SLE,71 740,6 144 562,Freetown,,Leone,África
-Somalia,Somalia,SOM,SOM,SOM,637 661,17 700 000,Mogadiscio,,Chelín somalí,África
-Suazilandia,Eswatini,SWZ,SWZ,SWZ,17 364,1 032 000,Lobamba (legislativa)Mbabane (administrativa),,Lilangeni,África
-Sudáfrica,South Africa,ZAF,RSA,RSA,1 221 037,47 432 000,Pretoria (ejecutiva)Bloemfontein (judicial)Ciudad del Cabo (legislativa),,Rand sudafricano,África
-Sudán,Sudan,SDN,SUD,SDN,1 886 068,31 436 378,Jartum,,Libra sudanesa,África
-Sudán del Sur (República de Sudán del Sur),South Sudan,SSD,SSD,SSD,619 745,8 260 490,Yuba,,Libra sursudanesa,África
-Tanzania,"Tanzania, United Republic of",TZA,TAN,TAN,945 087,37 849 133,Dodoma,,Chelín tanzano,África
-Togo,Togo,TGO,TOG,TOG,56 785,6 100 000,Lomé,,Franco CFA de África Occidental,África
-Túnez,Tunisia,TUN,TUN,TUN,163 610,10 102 000,Ciudad de Túnez,,Dinar tunecino,África
-Uganda,Uganda,UGA,UGA,UGA,236 040,27 616 000,Kampala,,Chelín ugandés,África
-Yibuti,Djibouti,DJI,DJI,DJI,23 200,496 374,Ciudad de Yibuti,,Franco yibutiano,África
-Zambia,Zambia,ZMB,ZAM,ZAM,752 614,9 582 418,Lusaka,,Kwacha zambiano,África
-Zimbabue,Zimbabwe,ZWE,ZIM,ZIM,390 580,13 271 000,Harare,,"Dólar de EE.UU., Pula",África
-Antigua y Barbuda,Antigua and Barbuda,ATG,ANT,ATG,442,93 581,Saint John,Inglés,"Dólar del Caribe-Este(EC$, XCD).",América
-Argentina,Argentina,ARG,ARG,ARG,2 780 400,53 886 748,Buenos Aires,Español,"Peso argentino($, ARS).",América
-Bahamas,Bahamas,BHS,BAH,BAH,13 880,327 316,Nasáu,Inglés,"Dólar de Bahamas(B$, BSD).",América
-Barbados,Barbados,BRB,BAR,BRB,430,291 495,Bridgetown,Inglés,"Dólar de Barbados($, BBD).",América
-Belice,Belize,BLZ,BIZ,BLZ,22 966,353 858,Belmopán,Inglés,"Dólar beliceño($, BZD)",América
-Bolivia,"Bolivia, Plurinational State of",BOL,BOL,BOL,1 098 581,10 969 649,Sucre[75]​,Español,"Boliviano(Bs., BOB).",América
-Brasil,Brazil,BRA,BRA,BRA,8 514 877,205 823 665,Brasilia,Portugués,"Real(R$, BRL).",América
-Canadá,Canada,CAN,CAN,CAN,9 984 670,35 362 905,Ottawa,Inglés Francés,"Dólar canadiense(C$, CAD).",América
-Chile,Chile,CHL,CHI,CHI,756 102,17 650 114,Santiago,Español,"Peso chileno($, CLP).",América
-Colombia,Colombia,COL,COL,COL,1 141 748,47 220 856,Bogotá,Español,"Peso colombiano($, COP).",América
-Costa Rica,Costa Rica,CRI,CRC,CRC,51 100,4 872 543,San José,Español,"Colón(₡, CRC).",América
-Cuba,Cuba,CUB,CUB,CUB,110 860,11 179 995,La Habana,Español,"Peso cubano($, CUP),Peso cubano convertible($, CUC).",América
-Dominica,Dominica,DMA,DMA,DMA,751,73 757,Roseau,Inglés,"Dólar del Caribe Oriental(EC$, XCD).",América
-Ecuador,Ecuador,ECU,ECU,ECU,283 561,16 080 778,Quito,Español,"Dólar estadounidense($, USD).",América
-El Salvador,El Salvador,SLV,ESA,SLV,21 041,6 156 670,San Salvador,Español,"Dólar estadounidense($, USD).",América
-Estados Unidos,United States,USA,USA,USA,9 371 174,323 995 528,Washington D. C.,InglésEspañol,"Dólar estadounidense($, USD).",América
-Granada,Grenada,GRD,GRN,GRN,344,111 219,Saint George,Inglés,"Dólar del Caribe-Este(EC$, XCD).",América
-Guatemala,Guatemala,GTM,GUA,GUA,108 889,15 189 958,Ciudad de Guatemala,Español,"Quetzal (moneda)(Q, GTQ).",América
-Guyana,Guyana,GUY,GUY,GUY,214 969,735 909,Georgetown,Inglés,"Dólar guyanés($,GYD).",América
-Haití,Haiti,HTI,HAI,HAI,27 750,10 485 800,Puerto Príncipe,Francés Criollo haitiano,"Gourde(G, HTG).",América
-Honduras,Honduras,HND,HON,HON,112 492,8 893 259,Tegucigalpa,Español,"Lempira(Lps, HNL).",América
-Jamaica,Jamaica,JAM,JAM,JAM,10 991,2 970 340,Kingston,Inglés,"Dólar jamaiquino($, JMD).",América
-México,Mexico,MEX,MEX,MEX,1 964 375,123 166 749,Ciudad de México,Español,"Peso mexicano($, MXN).",América
-Nicaragua,Nicaragua,NIC,NCA,NCA,130 370,7 317 798,Managua,Español,"Córdoba(C$, NIO).",América
-Panamá,Panama,PAN,PAN,PAN,75 420,3 705 246,Ciudad de Panamá,Español,"Balboa(฿, PAB)Dólar estadounidense($, USD).",América
-Paraguay,Paraguay,PRY,PAR,PAR,406 752,6 862 812,Asunción,Español Guaraní,"Guaraní(₲, PYG).",América
-Perú,Peru,PER,PER,PER,1 285 216,30 741 062,Lima,Español,Sol(S/) (PEN).,América
-República Dominicana,Dominican Republic,DOM,DOM,DOM,48 670,10 606 865,Santo Domingo,Español,"Peso dominicano(RD$, DOP).",América
-San Cristóbal y Nieves,Saint Kitts and Nevis,KNA,SKN,SKN,261,52 329,Basseterre,Inglés,"Dólar del Caribe Oriental(EC$, XCD).",América
-San Vicente y las Granadinas,Saint Vincent and the Grenadines,VCT,VIN,VIN,389,102 350,Kingstown,Inglés,"Dólar del Caribe Oriental(EC$, XCD).",América
-Santa Lucía,Saint Lucia,LCA,LCA,LCA,616,164 464,Castries,Inglés,"Dólar del Caribe Oriental(EC$, XCD).",América
-Surinam,Suriname,SUR,SUR,SUR,163 820,585 824,Paramaribo,Neerlandés,"Dólar surinamés($, SRD).",América
-Trinidad y Tobago,Trinidad and Tobago,TTO,TTO,TRI,5128,1 220 479,Puerto España,Inglés,"Dólar trinitense(TT$, TTD).",América
-Uruguay,Uruguay,URY,URU,URU,176 215,3 444 006,Montevideo,Español,"Peso uruguayo($, UYU).",América
-Venezuela,"Venezuela, Bolivarian Republic of",VEN,VEN,VEN,916 445,30 912 302,Caracas,Español,"Bolívar(Bs., VEF).",América
-Aruba,Aruba,ABW,ARU,ARU,180,113 648,Oranjestad,Neerlandés,"Florín arubeño(ƒ, AWG).",América
-Bermudas,Bermuda,BMU,BER,BER,54,70 537,Hamilton,Inglés,"Dólar bermudeño(BM$, BMD).",América
-Groenlandia,Greenland,GRL,,,2 166 086,61 100,Nuuk,Groenlandés,"Corona danesa(kr, DKK).",América
-Islas Caimán,Cayman Islands,CYM,CAY,CAY,264,57 268,George Town,Inglés,"Dólar de las Islas Caimán($, KYD)",América
-Islas Malvinas,Falkland Islands (Malvinas),FLK,,,12 173,2931,Puerto Argentino/Stanley,Inglés,"Libra malvinense(£, FKP)",América
-Montserrat,Montserrat,MSR,,MSR,102,5267,Plymouth (de iure) Brades (de facto),Inglés,"Dólar del Caribe Oriental(EC$, XCD)",América
-Puerto Rico,Puerto Rico,PRI,PUR,PUR,8870,3 578 056,San Juan,EspañolInglés,"Dólar estadounidense($, USD).",América
-Martinica,Martinique,MTQ,,,1100,413 417,Fort-de-France,Francés,"Euro(€, EUR).",América
-Australia,Australia,AUS,AUS,AUS,7 692 030,19 483 000,Camberra,Inglés,Dólar australiano,Oceanía
-Fiyi,Fiji,FJI,FIJ,FIJ,18 376,823 000,Suva,"Inglés, Fiyiano e Indostánico",Dólar fiyiano,Oceanía
-Kiribati,Kiribati,KIR,KIR,,811,95 000,Tarawa,Inglés y gilbertés,Dólar de Kiribati y Dólar australiano,Oceanía
-Islas Marshall,Marshall Islands,MHL,MHL,,181,53 000,Majuro,Marshalés e Inglés,Dólar estadounidense,Oceanía
-Micronesia,"Micronesia, Federated States of",FSM,FSM,,700,122 000,Palikir,Inglés,Dólar estadounidense,Oceanía
-Nauru,Nauru,NRU,NRU,,21,12 000,Yaren,Inglés y Nauruano,Dólar australiano,Oceanía
-Nueva Zelanda,New Zealand,NZL,NZL,NZL,270 534,3 939 000,Wellington,Inglés y Maori,dólar neozelandés,Oceanía
-Palaos,Palau,PLW,PLW,,508,20 000,Ngerulmud,"Inglés, palauano, japonés, angaur, tobiano y sonsorol",Dólar estadounidense,Oceanía
-Papúa Nueva Guinea,Papua New Guinea,PNG,PNG,PNG,462 840,5 378 000,Puerto Moresby,"Inglés, Tok pisin (criollo o pidgin inglés), Hiri motu",Kina,Oceanía
-Islas Salomón,Solomon Islands,SLB,SOL,SOL,27 556,443 000,Honiara,Inglés y aproximadamente 87 lenguas nativas,Dólar de las Islas Salomón,Oceanía
-Samoa,Samoa,WSM,SAM,SAM,2 831,176 000,Apia,Samoano e Inglés,Tala,Oceanía
-Tonga,Tonga,TON,TGA,TGA,748,101 000,Nukualofa,"Tongano, Inglés",Pa'anga,Oceanía
-Tuvalu,Tuvalu,TUV,TUV,,26,11 000,Funafuti,Tuvaluano e Inglés,Dólar tuvaluano y dólar australiano,Oceanía
-Vanuatu,Vanuatu,VUT,VAN,VAN,12 190,206 000,Port Vila,"Bislama, francés, Inglés",Vatu,Oceanía
-Guam,Guam,GUM,GUM,GUM,549,163 941,Agaña,,,Asia
-Isla de Navidad,Christmas Island,CXR,,,135,1 500,Flying Fish Cove,,,Asia
-Islas Cook,Cook Islands,COK,COK,COK,240,21 400,Avarua,,,Asia
-Niue,Niue,NIU,,,260,2 200,Alofi,,,Asia
-Nueva Caledonia,New Caledonia,NCL,,NCL,19 060,232 258,Numea,,,Asia
-Polinesia Francesa,French Polynesia,PYF,,TAH,4 167,270 500,Papeete,,,Asia
-Tokelau,Tokelau,TKL,,,10,1 400,Atafu,,,Asia
-Wallis y Futuna,Wallis and Futuna,WLF,,,274,16 000,Mata Utu,,,Asia
+nombre,ISO_code,COI,FIFA,Continente,Short_Name,Table_Name,Long_Name,2-alpha_code,Currency_Unit,Region,WB-2_code,Access_to_electricity_media,AFFVA_media,Control_of_Corruption_media,Expenditure_on_education_media,GDP_per_capita_media,GDP_per_capitaPPP_media,population_media,surface_area_media
+Albania,ALB,ALB,ALB,Europa,Albania,Albania,Republic of Albania,AL,Albanian lek,Europe & Central Asia,AL,99.8090909090909,20.93639179233374,-0.6724434035519758,3.371380073683603,2704.3068450283,8058.206925903526,2713609.46875,28750.0
+Alemania,DEU,GER,GER,Europa,Germany,Germany,Federal Republic of Germany,DE,Euro,Europe & Central Asia,DE,100.0,0.8728434336292623,1.8199409941832216,4.662717217984407,22790.19549828038,37965.625121342615,79807685.421875,357081.1475409836
+Andorra,AND,AND,AND,Europa,Andorra,Andorra,Principality of Andorra,AD,Euro,Europe & Central Asia,AD,100.0,0.4799747953589663,1.252924978733062,2.7274595271973374,25049.185525348217,42867.06921621765,50480.640625,470.0
+Armenia,ARM,ARM,ARM,Europa,Armenia,Armenia,Republic of Armenia,AM,Armenian dram,Europe & Central Asia,AM,99.52173913043478,14.163111410083236,-0.5554503937407085,2.667407231330871,2545.2328095106973,7498.40127913323,2927305.828125,29740.0
+Austria,AUT,AUT,AUT,Europa,Austria,Austria,Republic of Austria,AT,Euro,Europe & Central Asia,AT,100.0,2.223131320126305,1.6486806174119308,5.246931608985452,23702.201758597934,39846.72462533676,7917847.3125,83879.0
+Bélgica,BEL,BEL,BEL,Europa,Belgium,Belgium,Kingdom of Belgium,BE,Euro,Europe & Central Asia,BE,100.0,0.868036530974562,1.4378620435794194,5.68996175378561,22624.606197830337,37428.481448988605,10239946.25,32185.90163934426
+Bielorrusia,BLR,BLR,BLR,Europa,Belarus,Belarus,Republic of Belarus,BY,Belarusian rubel,Europe & Central Asia,BY,96.50303030303031,10.658519487342543,-0.4321197193154754,5.2061583428155815,4320.159711952543,12918.541257061168,9511239.109375,207600.6557377049
+Bosnia y Herzegovina,BIH,BIH,BIH,Europa,Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,BA,Bosnia and Herzegovina convertible mark,Europe & Central Asia,BA,99.6939393939394,9.580394172921672,-0.4220677788058917,,3485.131177390436,8221.759340517923,3895418.265625,51210.0
+Bulgaria,BGR,BUL,BUL,Europa,Bulgaria,Bulgaria,Republic of Bulgaria,BG,Bulgarian lev,Europe & Central Asia,BG,95.97272727272728,9.13741125323728,-0.2109723254883041,3.8612366914749146,4795.672922351446,14393.147204436968,8093770.171875,110992.95081967211
+Chipre,CYP,CYP,CYP,Europa,Cyprus,Cyprus,Republic of Cyprus,CY,Euro,Europe & Central Asia,CY,100.0,5.16762063978651,0.919189268102248,4.8873907521713615,17106.240613042093,29227.22024356617,868258.203125,9250.065573770493
+Croacia,HRV,CRO,CRO,Europa,Croatia,Croatia,Republic of Croatia,HR,Euro,Europe & Central Asia,HR,99.98181818181816,3.919489788089073,0.0351105131364116,4.455992460250855,10455.7198040143,18950.729071244896,4398162.921875,61202.86885245902
+Dinamarca,DNK,DEN,DEN,Europa,Denmark,Denmark,Kingdom of Denmark,DK,Danish krone,Europe & Central Asia,DK,100.0,2.9027661238372677,2.3091208239396424,7.161311193954113,29455.14799609882,39880.792072962126,5246286.8125,42920.0
+Eslovaquia,SVK,SVK,SVK,Europa,Slovak Republic,Slovak Republic,Slovak Republic,SK,Euro,Europe & Central Asia,SK,99.9939393939394,2.0066682656347754,0.2127806747642656,4.096404494910404,12384.77321143504,20817.133107112302,5081059.890625,49030.65573770492
+Eslovenia,SVN,SLO,SVN,Europa,Slovenia,Slovenia,Republic of Slovenia,SI,Euro,Europe & Central Asia,SI,100.0,2.397629853371343,0.880036575098832,5.337427269328725,18403.429028043887,26536.90665854854,1920626.84375,20313.77049180328
+España,ESP,ESP,ESP,Europa,Spain,Spain,Kingdom of Spain,ES,Euro,Europe & Central Asia,ES,100.0,2.982771596547806,0.993677881856759,3.79175881544749,14213.000195166402,28869.44641515276,39757145.890625,505855.7180327869
+Estonia,EST,EST,EST,Europa,Estonia,Estonia,Republic of Estonia,EE,Euro,Europe & Central Asia,EE,100.0,3.175146439472057,1.1015891556938484,5.399247858259413,13794.90353602414,20934.57179400043,1392234.828125,45246.22950819672
+Finlandia,FIN,FIN,FIN,Europa,Finland,Finland,Republic of Finland,FI,Euro,Europe & Central Asia,FI,100.0,4.270555864649264,2.2534375389417014,5.861669987440109,23781.096393465872,35434.762332433835,5020539.265625,338225.18032786885
+Francia,FRA,FRA,FRA,Europa,France,France,French Republic,FR,Euro,Europe & Central Asia,FR,100.0,3.682963470075809,1.3294835736354205,4.921331956651476,21221.73775603613,33859.8032182723,58527398.109375,549091.2744262295
+Georgia,GEO,GEO,GEO,Europa,Georgia,Georgia,Georgia,GE,Georgian lari,Europe & Central Asia,GE,99.8782608695652,17.33449363978458,0.036486575612798,3.069938036111686,2523.388432129879,8347.203386554847,4152434.78125,69700.0
+Grecia,GRC,GRE,GRE,Europa,Greece,Greece,Hellenic Republic,GR,Euro,Europe & Central Asia,GR,100.0,4.25872976982621,0.141051215934567,2.8794381533350264,11385.799478152863,24429.39889356068,10019931.578125,131960.0
+Hungría,HUN,HUN,HUN,Europa,Hungary,Hungary,Hungary,HU,Hungarian forint,Europe & Central Asia,HU,99.9939393939394,4.2549776555050025,0.3505717856266225,4.920707337061564,7053.006148947135,20374.771131877696,10229459.140625,93030.0
+Irlanda,IRL,IRL,IRL,Europa,Ireland,Ireland,Ireland,IE,Euro,Europe & Central Asia,IE,100.0,1.6586825054491356,1.5795460889736817,4.73437736472305,27612.707589946804,49449.30031482589,3759066.015625,70280.0
+Islandia,ISL,ISL,ISL,Europa,Iceland,Iceland,Republic of Iceland,IS,Iceland krona,Europe & Central Asia,IS,100.0,5.800102594082955,1.9586452990770349,6.847132507960001,28844.59597282524,40315.26257901919,264904.03125,103000.0
+Italia,ITA,ITA,ITA,Europa,Italy,Italy,Italian Republic,IT,Euro,Europe & Central Asia,IT,100.0,2.3198170587678306,0.3233080875749389,4.232755243778229,18115.857759860894,33142.56771807405,56572525.671875,301602.868852459
+Letonia,LVA,LAT,LVA,Europa,Latvia,Latvia,Republic of Latvia,LV,Euro,Europe & Central Asia,LV,99.92121212121212,4.0646587016492335,0.3113276724082728,5.23929555599506,11346.18006192198,17658.41838054944,2309606.203125,64593.86885245902
+Liechtenstein,LIE,LIE,LIE,Europa,Liechtenstein,Liechtenstein,Principality of Liechtenstein,LI,Swiss franc,Europe & Central Asia,LI,100.0,0.1509704463685153,1.624254499872525,2.2454799811045336,80747.2643810028,,29032.390625,160.0
+Lituania,LTU,LTU,LTU,Europa,Lithuania,Lithuania,Republic of Lithuania,LT,Euro,Europe & Central Asia,LT,99.8090909090909,4.584650279528061,0.4270093825956185,4.850591993331911,11975.442945512495,20499.129563976938,3248694.953125,65298.42622950819
+Luxemburgo,LUX,LUX,LUX,Europa,Luxembourg,Luxembourg,Grand Duchy of Luxembourg,LU,Euro,Europe & Central Asia,LU,100.0,0.4039142234492932,1.9626921365658447,3.996852084210044,49536.4654565269,79477.2932524054,428445.28125,2590.0
+Macedonia del Norte,MKD,MKD,MKD,Europa,North Macedonia,North Macedonia,Republic of North Macedonia,MK,Macedonian denar,Europe & Central Asia,MK,99.66666666666669,9.735851452928369,-0.368221201468259,4.294133345286052,4060.725007761636,11100.21189513274,1867646.9375,25710.0
+Malta,MLT,MLT,MLT,Europa,Malta,Malta,Republic of Malta,MT,Euro,Middle East & North Africa,MT,100.0,2.80153513371134,0.7178316190838814,4.662860783135019,13027.843799083515,27972.018676260508,373773.140625,320.0
+Moldavia,MDA,MDA,MDA,Europa,Moldova,Moldova,Republic of Moldova,MD,Moldovan leu,Europe & Central Asia,MD,99.59393939393938,15.469524457273096,-0.6959619025389355,6.550959491729737,2138.644627255481,7124.0988597034575,2712915.671875,33801.311475409835
+Mónaco,MCO,MON,,Europa,Monaco,Monaco,Principality of Monaco,MC,Euro,Europe & Central Asia,MC,100.0,,1.5764596611261377,1.2412210047245018,102324.06488331422,,29831.765625,20.20009836065574
+Montenegro,MNE,MNE,MNE,Europa,Montenegro,Montenegro,Montenegro,ME,Euro,Europe & Central Asia,ME,99.53939393939396,8.024173009708969,-0.16528295211332,,6011.766124119028,14371.7367506252,584306.359375,13810.0
+Noruega,NOR,NOR,NOR,Europa,Norway,Norway,Kingdom of Norway,NO,Norwegian krone,Europe & Central Asia,NO,100.0,2.551620941843032,2.0954481462637577,6.595382618904114,38569.29419586639,51270.09056969518,4397847.46875,420569.3424590164
+Países Bajos,NLD,NED,NED,Europa,Netherlands,Netherlands,Kingdom of the Netherlands,NL,Euro,Europe & Central Asia,NL,100.0,2.932281354388907,2.003859743475914,5.397706722726627,25329.346841719183,41567.43172098122,14988403.90625,41532.7868852459
+Polonia,POL,POL,POL,Europa,Poland,Poland,Republic of Poland,PL,Polish zloty,Europe & Central Asia,PL,99.96969696969695,3.1049614177157423,0.5366475520034631,4.903899291466024,9567.361051178745,19445.44506081316,36184594.734375,312688.68852459016
+Portugal,PRT,POR,POR,Europa,Portugal,Portugal,Portuguese Republic,PT,Euro,Europe & Central Asia,PT,100.0,2.5185866971201905,0.9882960195342696,4.226292408030966,10402.163170758831,24807.115988231257,9845269.125,92139.72459016393
+Reino Unido,GBR,GBR,,Europa,United Kingdom,United Kingdom,United Kingdom of Great Britain and Northern Ireland,GB,Pound sterling,Europe & Central Asia,GB,100.0,0.8069003507132985,1.792746558785438,4.990485997910195,21752.71212752729,34248.306392916056,58899425.4375,243610.0
+República Checa,CZE,CZE,CZE,Europa,Czechia,Czechia,Czech Republic,CZ,Czech koruna,Europe & Central Asia,CZ,100.0,2.5444760960405515,0.4474974485735098,4.206693114905521,14572.442738318292,26398.49967227727,10237331.3125,78870.03426229508
+Rumania,ROU,ROU,ROU,Europa,Romania,Romania,Romania,RO,New Romanian leu,Europe & Central Asia,RO,98.23333333333332,9.99918608785274,-0.2776378958951681,3.396485307942265,6286.047053062941,16224.354371182795,21024190.359375,238391.47540983607
+Rusia,RUS,RUS,RUS,Europa,Russia,Russian Federation,Russian Federation,RU,Russian ruble,Europe & Central Asia,RU,99.2,5.513562170603247,-0.958228183289369,3.833890104293823,7291.589864095054,17525.967313878675,140176643.484375,17098241.967213117
+San Marino,SMR,SMR,SMR,Europa,San Marino,San Marino,Republic of San Marino,SM,Euro,Europe & Central Asia,SM,100.0,0.0166524752388474,1.2068704515695576,3.161560903895985,52278.87725161984,57665.04989272144,24922.390625,60.0
+Serbia,SRB,SRB,SRB,Europa,Serbia,Serbia,Republic of Serbia,RS,New Serbian dinar,Europe & Central Asia,YF,99.86363636363636,9.292698531289217,-0.4966855167100828,3.8913682590831415,5144.793868955507,12715.623049834525,7234053.875,88249.5081967213
+Suecia,SWE,SWE,SWE,Europa,Sweden,Sweden,Kingdom of Sweden,SE,Swedish krona,Europe & Central Asia,SE,100.0,2.561360384039442,2.1566365957260123,6.726665164485122,28068.117913702157,39076.214351989045,8753814.609375,459395.41645901627
+Suiza,CHE,SUI,SUI,Europa,Switzerland,Switzerland,Switzerland,CH,Swiss franc,Europe & Central Asia,CH,100.0,0.9666653302062964,2.0400519669055948,4.753604507446289,39830.79360297464,50803.61395585302,6976948.0,41290.49344262297
+Turquía,TUR,TUR,TUR,Europa,Türkiye,Türkiye,Republic of Türkiye,TR,New Turkish lira,Europe & Central Asia,TR,99.89565217391304,21.25075864268577,-0.1551395713662107,3.2565786397015613,4371.063533088673,17679.230689041153,55852661.453125,785350.0
+Ucrania,UKR,UKR,UKR,Europa,Ukraine,Ukraine,Ukraine,UA,Ukrainian hryvnia,Europe & Central Asia,UA,99.85151515151516,12.44095121629516,-0.9554778411984448,5.533421984425298,2282.180850467167,8727.02001953125,47622069.078125,603555.2459016393
+Vaticano,VAT,,,Europa,,,,,,,,,,,,,,,
+Abjasia,ABH,,,Europa,,,,,,,,,,,,,,,
+Afganistán,AFG,AFG,AFG,Asia,Afghanistan,Afghanistan,Islamic State of Afghanistan,AF,Afghan afghani,South Asia,AF,57.091304347826096,27.952003222036616,-1.42009029785792,2.956044900417328,416.6676090883717,1715.017151859411,18782444.28125,652860.0
+Arabia Saudita,SAU,KSA,KSA,Asia,Saudi Arabia,Saudi Arabia,Kingdom of Saudi Arabia,SA,Saudi Arabian riyal,Middle East & North Africa,SA,99.9939393939394,3.457626075585671,0.0138926945316295,5.959900498390199,10721.401060790648,43941.34813015352,18049646.640625,2149690.0
+Azerbaiyán,AZE,AZE,AZE,Asia,Azerbaijan,Azerbaijan,Republic of Azerbaijan,AZ,New Azeri manat,Europe & Central Asia,AZ,99.575,12.638454653725594,-1.0847096368670464,3.1695871438298906,3269.8877589270032,10206.072576989343,7246785.046875,86600.0
+Bangladés,BGD,BAN,BAN,Asia,Bangladesh,Bangladesh,People's Republic of Bangladesh,BD,Bangladeshi taka,South Asia,BD,50.852566827535625,32.43570161652565,-1.0820966064929958,1.7482710754549184,570.3683645180281,3149.327245345771,110502817.5625,148352.90163934426
+Baréin,BHR,BRN,BHR,Asia,Bahrain,Bahrain,Kingdom of Bahrain,BH,Bahraini dinar,Middle East & North Africa,BH,99.9967540394176,0.5899690205674917,0.2071569310501217,2.5531364338738585,14107.087756514911,44215.63486856609,677471.578125,716.639344262295
+Birmania,MMR,MYA,MYA,Asia,Myanmar,Myanmar,Republic of the Union of Myanmar,MM,Myanmar kyat,East Asia & Pacific,MM,55.40869565217392,35.1636399153042,-1.2156529525915782,2.0461450964212413,351.79832725859427,2677.371986623696,39610475.359375,676590.0
+Brunéi,BRN,BRU,BRU,Asia,Brunei,Brunei Darussalam,Brunei Darussalam,BN,Brunei dollar,East Asia & Pacific,BN,100.0,1.076159289416653,0.608666678269704,3.703405940974201,19001.76196577881,70693.7637981089,271529.640625,5770.0
+Bután,BTN,BHU,BHU,Asia,Bhutan,Bhutan,Kingdom of Bhutan,BT,Bhutanese ngultrum,South Asia,BT,76.37826086956522,23.39403988049947,1.071415526171526,5.950925005806819,1220.9466507765271,6286.999327375442,519540.984375,43325.34426229508
+Camboya,KHM,CAM,CAM,Asia,Cambodia,Cambodia,Kingdom of Cambodia,KH,Cambodian riel,East Asia & Pacific,KH,43.38760147552491,32.30316709304556,-1.1679486483335504,1.814136323175932,575.0023906380794,2344.569585161419,10251990.984375,181040.0
+Catar,QAT,QAT,QAT,Asia,Qatar,Qatar,State of Qatar,QA,Qatari riyal,Middle East & North Africa,QA,100.0,0.1951546461093813,0.8001493948201341,3.372575024763743,36200.80705863319,100099.78887467925,855703.734375,11594.262295081968
+China,CHN,CHN,CHN,Asia,China,China,People's Republic of China,CN,Chinese yuan,East Asia & Pacific,CN,99.04347826086956,22.031381463501155,-0.3680098061449825,2.516293153530214,2418.904414796196,8392.01756197864,1109125312.5,9562934.66229508
+Corea del Norte,PRK,PRK,PRK,Asia,Dem. People's Rep. Korea,"Korea, Dem. People's Rep.",Democratic People's Republic of Korea,KP,Democratic People's Republic of Korean won,East Asia & Pacific,KP,40.9,,-1.4002752651770896,,,,20382972.09375,120540.0
+Corea del Sur,KOR,KOR,KOR,Asia,Korea,"Korea, Rep.",Republic of Korea,KR,Korean won,East Asia & Pacific,KR,99.99079663825758,12.872166386958297,0.4964881973961988,3.8326209754478633,11389.51884212533,27799.308646754613,41905669.109375,99522.95081967211
+Emiratos Árabes Unidos,ARE,UAE,UAE,Asia,United Arab Emirates,United Arab Emirates,United Arab Emirates,AE,U.A.E. dirham,Middle East & North Africa,AE,100.0,1.1274322313982628,0.9331703578354792,3.9132966200510633,32790.61960841674,84826.22554299449,3434973.734375,98647.90000000004
+Filipinas,PHL,PHI,PHI,Asia,Philippines,Philippines,Republic of the Philippines,PH,Philippine peso,East Asia & Pacific,PH,82.58747312719002,18.536708730333203,-0.5905861283342044,2.8697462876637783,1252.969544657003,5330.404215752231,67347065.734375,300000.0
+India,IND,IND,IND,Asia,India,India,Republic of India,IN,Indian rupee,South Asia,IN,73.62335342407226,27.571949877851694,-0.3883507431795199,3.8634495508103135,656.1326136270848,3938.7706876652414,916069253.703125,3287260.0
+Indonesia,IDN,INA,IDN,Asia,Indonesia,Indonesia,Republic of Indonesia,ID,Indonesian rupiah,East Asia & Pacific,ID,86.66395511627196,16.637117733665026,-0.7024525354305905,2.6541484704724065,1459.7987246405712,7633.554854156931,185108591.265625,1911504.647704918
+Irak,IRQ,IRQ,IRQ,Asia,Iraq,Iraq,Republic of Iraq,IQ,Iraqi dinar,Middle East & North Africa,IQ,98.57391304347826,9.412493681766948,-1.3835704376300182,3.27744666735331,2477.359947132938,9628.357955308633,21534702.890625,437635.8360655738
+Irán,IRN,IRI,IRN,Asia,Iran,"Iran, Islamic Rep.",Islamic Republic of Iran,IR,Iranian rial,Middle East & North Africa,IR,99.24782608695654,11.747171365406633,-0.701516124730309,3.7756329666484487,2716.3031895910176,13437.752968519371,54670181.140625,1745150.0
+Japón,JPN,JPN,JPN,Asia,Japan,Japan,Japan,JP,Japanese yen,East Asia & Pacific,JP,100.0,1.238495795082582,1.3820045441389075,3.903526971506518,23439.1266868044,33164.332030514735,118512300.5,377849.5573770492
+Jordania,JOR,JOR,JOR,Asia,Jordan,Jordan,Hashemite Kingdom of Jordan,JO,Jordanian dinar,Middle East & North Africa,JO,99.18253774931937,5.836476533448702,0.148604411088551,4.087013288780495,2134.67049444561,7772.967546865381,4545948.390625,88894.98360655738
+Kazajistán,KAZ,KAZ,KAZ,Asia,Kazakhstan,Kazakhstan,Republic of Kazakhstan,KZ,Kazakh tenge,Europe & Central Asia,KZ,99.76086916242328,7.596655031271647,-0.84750921651721,3.3152722930908203,6052.502066416071,17061.09515306802,14900428.078125,2724901.934426229
+Kirguistán,KGZ,KGZ,KGZ,Asia,Kyrgyz Republic,Kyrgyz Republic,Kyrgyz Republic,KG,Kyrgyz som,Europe & Central Asia,KG,99.49690029437726,25.704208539154735,-1.139903888106346,5.642899964536939,820.0253873243364,3226.7568872891256,4394579.6875,199949.868852459
+Kuwait,KWT,KUW,KUW,Asia,Kuwait,Kuwait,State of Kuwait,KW,Kuwaiti dinar,Middle East & North Africa,KW,100.0,0.403843831361624,0.1858304770042498,4.62753163774808,19958.22574391696,60554.28452386016,2012901.46875,17820.0
+Laos,LAO,LAO,LAO,Asia,Lao PDR,Lao PDR,Lao People's Democratic Republic,LA,Lao kip,East Asia & Pacific,LA,63.43588948567708,28.868091770724394,-1.0193041438857715,2.2822923851013184,986.762270190287,3873.538364734724,4602440.78125,236800.0
+Líbano,LBN,LBN,LBN,Asia,Lebanon,Lebanon,Lebanese Republic,LB,Lebanese pound,Middle East & North Africa,LB,99.55217391304348,4.276406086401954,-0.868575156976779,2.221003322374254,4917.585244383755,11693.241345788663,3842608.671875,10450.0
+Maldivas,MDV,MDV,MDV,Asia,Maldives,Maldives,Republic of Maldives,MV,Maldivian rufiyaa,South Asia,MV,95.81304347826088,5.723381512351746,-0.4897663251807293,4.5203085626874655,3685.841572302141,12288.141336612618,255633.84375,300.0
+Malasia,MYS,MAS,MAS,Asia,Malaysia,Malaysia,Malaysia,MY,Malaysian ringgit,East Asia & Pacific,MY,99.38260869565218,18.755964637875465,0.1945306731892439,5.327120542526245,4253.32639203862,18759.562151529277,19575884.890625,330745.7049180328
+Mongolia,MNG,MGL,MNG,Asia,Mongolia,Mongolia,Mongolia,MN,Mongolian tugrik,East Asia & Pacific,MN,84.09130434782608,18.497952737023255,-0.4446904393068204,4.819697141647339,2056.4823611229453,7525.010477615389,2132368.265625,1564119.6680163934
+Nepal,NPL,NEP,NEP,Asia,Nepal,Nepal,Nepal,NP,Nepalese rupee,South Asia,NP,59.39232424983272,44.29553863364664,-0.6835403343041738,3.512933225631714,346.6177418327455,2221.089601265121,20331035.578125,147180.0
+Omán,OMN,OMA,OMA,Asia,Oman,Oman,Sultanate of Oman,OM,Omani rial,Middle East & North Africa,OM,99.9939393939394,9.864710055183464,0.3639722025642792,3.927118922982896,9647.328923637517,39862.1460362134,2053430.484375,309500.0
+Pakistán,PAK,PAK,PAK,Asia,Pakistan,Pakistan,Islamic Republic of Pakistan,PK,Pakistani rupee,South Asia,PK,84.26901401367188,26.81029620665201,-0.9392332658171654,2.289404786151388,590.6017618014854,3622.391231099978,128455910.140625,796100.0
+Singapur,SGP,SGP,SIN,Asia,Singapore,Singapore,Republic of Singapore,SG,Singapore dollar,East Asia & Pacific,SG,100.0,1.031781021418306,2.1397637029488883,2.948475212664217,23373.11039489341,67439.83285960509,3499355.96875,690.7049180327868
+Siria,SYR,SYR,SYR,Asia,Syrian Arab Republic,Syrian Arab Republic,Syrian Arab Republic,SY,Syrian pound,Middle East & North Africa,SY,90.88260869565218,25.20712838551653,-1.2262094529966518,4.974697599411011,1048.4512470680131,3354.885995164886,13340827.109375,185180.0
+Sri Lanka,LKA,SRI,SRI,Asia,Sri Lanka,Sri Lanka,Democratic Socialist Republic of Sri Lanka,LK,Sri Lankan rupee,South Asia,LK,87.30434782608695,21.396259652489423,-0.2852455531246959,2.400145325809717,1248.8547312413043,7757.773172603523,16900806.421875,65610.0
+Tailandia,THA,THA,THA,Asia,Thailand,Thailand,Kingdom of Thailand,TH,Thai baht,East Asia & Pacific,TH,96.65652173913044,16.913312511403518,-0.3777853058030209,3.4638435443242384,2417.853881174765,11938.001388575713,53764861.25,513120.0
+Tayikistán,TJK,TJK,TJK,Asia,Tajikistan,Tajikistan,Republic of Tajikistan,TJ,Tajik somoni,Europe & Central Asia,TJ,98.95833333333331,25.089472091761746,-1.245689431826273,4.006939722941473,572.4688743538063,2259.4155501046903,5574216.140625,142396.47540983607
+Timor Oriental,TLS,TLS,TLS,Asia,Timor-Leste,Timor-Leste,Democratic Republic of Timor-Leste,TL,U.S. dollar,East Asia & Pacific,TP,55.86521739130435,22.085602116010183,-0.5170661104576928,6.899954983166286,839.07730405925,2313.039969863272,825543.28125,14870.0
+Turkmenistán,TKM,TKM,TKM,Asia,Turkmenistan,Turkmenistan,Turkmenistan,TM,New Turkmen manat,Europe & Central Asia,TM,99.80869565217392,17.27529240212163,-1.300937841335933,3.340346574783327,3372.134433826014,7753.908022911522,3884286.265625,488100.0
+Uzbekistán,UZB,UZB,UZB,Asia,Uzbekistan,Uzbekistan,Republic of Uzbekistan,UZ,Uzbek som,Europe & Central Asia,UZ,99.68678549307364,27.577255404724,-1.118598274886608,5.497901320457459,1241.0601543401706,4718.681702548287,21161665.375,446764.1475409836
+Vietnam,VNM,VIE,VIE,Asia,Viet Nam,Viet Nam,Socialist Republic of Viet Nam,VN,Vietnamese dong,East Asia & Pacific,VN,94.76424713134764,22.97928980058304,-0.5429268181324005,3.7169573624928782,1359.1189791159109,5483.447725700811,67046998.546875,331110.88524590165
+Yemen,YEM,YEM,YEM,Asia,Yemen,"Yemen, Rep.",Republic of Yemen,YE,Yemeni rial,Middle East & North Africa,RY,57.51435768373552,18.14962930251531,-1.2456549058357878,6.097334814071654,903.8332438581152,2859.162748790039,16124129.921875,527970.0
+Israel,ISR,ISR,ISR,Asia,Israel,Israel,State of Israel,IL,Israeli new shekel,Middle East & North Africa,IL,100.0,1.6709510479485843,0.9084189484516784,5.899559154510498,17586.418224456,29758.986494878176,5396000.3125,22070.0
+Palestina,PSE,PLE,PLE,Asia,West Bank and Gaza,West Bank and Gaza,West Bank and Gaza,PS,Israeli new shekel,Middle East & North Africa,GZ,99.55624818068284,9.039805097547482,-0.2889798262622208,5.120734989643099,2358.132977208226,4162.319185441137,3508943.5,6020.081967213115
+Taiwán,TWN,TPE,TPE,Asia,,,,,,,,,,,,,,,
+Osetia del Sur,RSO,,,Asia,,,,,,,,,,,,,,,
+Territorio Británico del Océano Índico,IOT,,,Asia,,,,,,,,,,,,,,,
+Hong Kong,HKG,HKG,HKG,Asia,"Hong Kong SAR, China","Hong Kong SAR, China",Hong Kong Special Administrative Region of the People's Republic of China,HK,Hong Kong dollar,East Asia & Pacific,HK,100.0,0.0685536445727806,1.6807445238033936,3.160575906435648,18788.30762632779,41873.88610076517,5705612.046875,1083.4590163934429
+Macao,MAC,,MAC,Asia,"Macao SAR, China","Macao SAR, China",Macao Special Administrative Region of the People's Republic of China,MO,Macao pataca,East Asia & Pacific,MO,99.98736109878078,,0.5729952147230506,2.9475599924723315,33204.067869516766,71886.93170419864,390666.65625,23.377049180327877
+Angola,AGO,ANG,ANG,África,Angola,Angola,People's Republic of Angola,AO,Angolan kwanza,Sub-Saharan Africa,AO,36.28695652173913,7.883305301598344,-1.233097528417905,3.0345219089871365,2133.920033988554,5274.217573333553,15188963.703125,1246700.0
+Argelia,DZA,ALG,ALG,África,Algeria,Algeria,People's Democratic Republic of Algeria,DZ,Algerian dinar,Middle East & North Africa,DZ,99.09565217391304,9.206221550570293,-0.6493045451740422,6.752111471616306,2428.8410797879087,11745.584654021772,26222807.796875,2381740.1147540985
+Benín,BEN,BEN,BEN,África,Benin,Benin,Republic of Benin,BJ,West African CFA franc,Sub-Saharan Africa,BJ,30.682589749936707,32.455012703320094,-0.5489637426411113,2.904986424446106,531.6233517231824,2267.823876281607,6333795.875,114760.0
+Botsuana,BWA,BOT,BOT,África,Botswana,Botswana,Republic of Botswana,BW,Botswana pula,Sub-Saharan Africa,BW,41.69968068599701,13.134154255678908,0.8573021292686459,6.701592350006104,2918.050908126891,11335.7056306694,1427281.640625,581730.0
+Burkina Faso,BFA,BUR,BFA,África,Burkina Faso,Burkina Faso,Burkina Faso,BF,West African CFA franc,Sub-Saharan Africa,BF,12.513256114323934,28.2809532317472,-0.1942563413952787,3.6615508848970575,349.01442537495564,1367.7190274175014,11021612.921875,274220.0
+Burundi,BDI,BDI,BDI,África,Burundi,Burundi,Republic of Burundi,BI,Burundi franc,Sub-Saharan Africa,BI,5.950837972640991,45.28746842284919,-1.1802308112382889,4.6377079240207015,163.67199569085483,663.6118787344967,6321279.6875,27830.0
+Cabo Verde,CPV,CPV,CPV,África,Cabo Verde,Cabo Verde,Republic of Cabo Verde,CV,Cabo Verde escudo,Sub-Saharan Africa,CV,78.51739130434783,10.00828255866976,0.8506140870352586,5.432130010504471,2032.2524760475171,4591.531461883067,400372.953125,4030.0
+Camerún,CMR,CMR,CMR,África,Cameroon,Cameroon,Republic of Cameroon,CM,Central African CFA franc,Sub-Saharan Africa,CM,49.19154906272888,22.42887444781258,-1.1602667396267266,2.821289725163404,868.0459115460842,2874.4577862474243,13530657.9375,475440.0
+Chad,TCD,CHA,CHA,África,Chad,Chad,Republic of Chad,TD,Central African CFA franc,Sub-Saharan Africa,TD,6.65102310180664,33.43496105206941,-1.4089353779951723,2.35348569779169,375.22701310481614,1327.9851954891926,7797086.515625,1284000.0
+Comoras,COM,COM,COM,África,Comoros,Comoros,Union of the Comoros,KM,Comorian franc,Sub-Saharan Africa,KM,60.739953471996174,30.48526495892205,-0.857355999449889,2.6562063477256084,1056.0638809356365,2339.383930328702,466433.5625,1861.0
+Costa de Marfil,CIV,CIV,CIV,África,Côte d'Ivoire,Côte d'Ivoire,Republic of Côte d'Ivoire,CI,West African CFA franc,Sub-Saharan Africa,CI,56.69008552288187,24.945938838414182,-0.7723540862401332,4.183587992191315,1079.4626835800968,3885.3796436838743,13809933.421875,322460.0
+Egipto,EGY,EGY,EGY,África,Egypt,"Egypt, Arab Rep.",Arab Republic of Egypt,EG,Egyptian pound,Middle East & North Africa,EG,98.32999449699156,17.969566112463944,-0.5955392072598139,4.40071145693461,1330.2868705933583,8503.878593987352,62637893.734375,1001450.0
+Eritrea,ERI,ERI,ERI,África,Eritrea,Eritrea,State of Eritrea,ER,Eritrean nakfa,Sub-Saharan Africa,ER,38.60070315769741,18.39658950579711,-0.6144970996926227,3.481281518936158,365.8614711997464,1448.058283795126,2206267.125,120117.72596551728
+Etiopía,ETH,ETH,ETH,África,Ethiopia,Ethiopia,Federal Democratic Republic of Ethiopia,ET,Ethiopian birr,Sub-Saharan Africa,ET,28.995652173913044,44.498411373884096,-0.626448123405377,4.033344268798829,285.25549505232937,1109.026102117656,59303048.296875,1175417.533327869
+Gabón,GAB,GAB,GAB,África,Gabon,Gabon,Gabonese Republic,GA,Central African CFA franc,Sub-Saharan Africa,GA,84.92173913043479,10.34327362011174,-0.8498075405756631,3.012401763130636,4594.374796118169,14624.251925002238,1178783.078125,267670.0
+Gambia,GMB,GAM,GAM,África,The Gambia,"Gambia, The",Republic of The Gambia,GM,Gambian dalasi,Sub-Saharan Africa,GM,41.13688442230225,26.56467517867989,-0.5387754142284393,2.1746240518987183,455.104199530402,1961.5803839029352,1260474.5625,11300.0
+Ghana,GHA,GHA,GHA,África,Ghana,Ghana,Republic of Ghana,GH,New Ghanaian cedi,Sub-Saharan Africa,GH,58.13309538523357,38.2719401615166,-0.1563526432340343,4.526663825792425,719.8563744929015,3693.575156005321,17599745.640625,238539.5081967213
+Guinea,GIN,GUI,GUI,África,Guinea,Guinea,Republic of Guinea,GN,Guinean franc,Sub-Saharan Africa,GN,29.320833333333336,17.24916386565473,-1.0375830009579652,2.230945601463318,1058.8671641671374,1822.232328801743,7389353.921875,245860.0
+Guinea-Bisáu,GNB,GBS,GNB,África,Guinea-Bissau,Guinea-Bissau,Republic of Guinea-Bissau,GW,West African CFA franc,Sub-Saharan Africa,GW,16.771428571428572,42.25753306877437,-1.2803746312856672,2.619679999351502,537.1411695895507,1394.5880839528345,1127279.296875,36130.0
+Guinea Ecuatorial,GNQ,GEQ,EQG,África,Equatorial Guinea,Equatorial Guinea,Republic of Equatorial Guinea,GQ,Central African CFA franc,Sub-Saharan Africa,GQ,65.75217391304348,1.841396380790263,-1.3824275781710935,2.18797993659973,4172.550336831297,16345.3969409254,678223.71875,28050.0
+Kenia,KEN,KEN,KEN,África,Kenya,Kenya,Republic of Kenya,KE,Kenyan shilling,Sub-Saharan Africa,KE,32.047150678634644,26.984421529567204,-0.9713094010949138,5.435667820465869,625.8378819477277,2874.796455637525,26815427.765625,580370.0
+Lesoto,LSO,LES,LES,África,Lesotho,Lesotho,Kingdom of Lesotho,LS,Lesotho loti,Sub-Saharan Africa,LS,23.57826086956522,22.76071849867473,-0.0268972309616704,8.287300586700441,482.2131181994309,1845.8192050360396,1652661.296875,30360.0
+Liberia,LBR,LBR,LBR,África,Liberia,Liberia,Republic of Liberia,LR,Liberian dollar,Sub-Saharan Africa,LR,14.76875,51.041167128049175,-0.8950017181535568,2.226612338652977,357.50403192863445,1033.0349641874222,2714354.78125,111370.0
+Libia,LBY,LBA,LBY,África,Libya,Libya,Socialist People's Libyan Arab Jamahiriya,LY,Libyan dinar,Middle East & North Africa,LY,81.14347826086956,2.737623453394808,-1.2480202292402598,2.26416993141174,6947.437851496451,21751.791138765737,4206867.109375,1759540.0
+Madagascar,MDG,MAD,MAD,África,Madagascar,Madagascar,Republic of Madagascar,MG,Malagasy ariary,Sub-Saharan Africa,MG,18.519543949250256,27.401645452702542,-0.586366828070216,2.6816439896821977,338.9436447277831,1397.4198558779592,14394816.0,587085.9836065574
+Malaui,MWI,MAW,MWI,África,Malawi,Malawi,Republic of Malawi,MW,Malawi kwacha,Sub-Saharan Africa,MW,7.552962528505633,27.357354115939884,-0.5806472487747669,2.9059464931488046,399.4629875289751,1197.834709782633,10091686.9375,118480.0
+Malí,MLI,MLI,MLI,África,Mali,Mali,Republic of Mali,ML,West African CFA franc,Sub-Saharan Africa,ML,26.214657345524543,40.42590791827169,-0.7109762281179428,3.4186639189720154,387.4596923160988,1580.6913466094743,10960674.140625,1240190.0
+Marruecos,MAR,MAR,MAR,África,Morocco,Morocco,Kingdom of Morocco,MA,Moroccan dirham,Middle East & North Africa,MA,82.32036689019972,14.56133075711348,-0.3136577932164072,5.22338799067906,1552.6000735759744,5764.074118221509,24753180.1875,446550.0
+Mauricio,MUS,MRI,MRI,África,Mauritius,Mauritius,Republic of Mauritius,MU,Mauritian rupee,Sub-Saharan Africa,MU,99.3145119869348,7.646924564150146,0.284513641614467,3.9909499946393456,3940.931857971857,14217.77387830854,1054108.09375,2034.049180327869
+Mauritania,MRT,MTN,MTN,África,Mauritania,Mauritania,Islamic Republic of Mauritania,MR,Mauritanian ouguiya,Sub-Saharan Africa,MR,34.178260869565214,23.097446068441236,-0.6612085585171977,2.09826824945562,918.6714575074932,3448.778830269302,2352070.578125,1030700.0
+Mozambique,MOZ,MOZ,MOZ,África,Mozambique,Mozambique,Republic of Mozambique,MZ,New Mozambican metical,Sub-Saharan Africa,MZ,17.61701151040884,26.015835554862782,-0.6290430898467699,5.174524706952712,436.0345122854422,845.5454457160428,16298047.1875,799380.0
+Namibia,NAM,NAM,NAM,África,Namibia,Namibia,Republic of Namibia,,Namibian dollar,Sub-Saharan Africa,,41.6265889321604,8.564424420405748,0.3320512945453326,8.36677714756557,3369.1510714253204,7580.320396107043,1472301.984375,824290.0
+Níger,NER,NIG,NIG,África,Niger,Niger,Republic of Niger,NE,West African CFA franc,Sub-Saharan Africa,NE,11.553075036694926,45.11842004725008,-0.7368070681889849,2.879816015561422,312.57540692588503,1016.7654505244956,10935714.953125,1267000.0
+Nigeria,NGA,NGR,NGA,África,Nigeria,Nigeria,Federal Republic of Nigeria,NG,Nigerian naira,Sub-Saharan Africa,NG,47.67294840957179,22.896585776877323,-1.166080412765345,3.136929988861085,1105.8666979182735,3804.421374967815,110784107.125,923770.0
+República Centroafricana,CAF,CAF,CTA,África,Central African Republic,Central African Republic,Central African Republic,CF,Central African CFA franc,Sub-Saharan Africa,CF,9.349798202514648,33.48162036362768,-1.1691322426001234,1.8323975035122468,296.2915738144877,774.8477584437172,3298674.703125,622980.0
+República Democrática del Congo,COD,COD,COD,África,Dem. Rep. Congo,"Congo, Dem. Rep.",Democratic Republic of the Congo,CD,Congolese franc,Sub-Saharan Africa,ZR,13.782608695652174,27.18247277033829,-1.449587593475978,1.7999283207787409,332.6202482840682,746.5705969611816,44553344.0625,2344860.0
+República del Congo,COG,CGO,CGO,África,Congo,"Congo, Rep.",Republic of Congo,CG,Central African CFA franc,Sub-Saharan Africa,CG,40.095652173913045,11.07520950931944,-1.194740263124307,4.470953446168166,1258.9556959250783,4541.59232901036,2900527.28125,342000.0
+Sahara Occidental,ESH,,,África,,,,,,,,,,,,,,,
+Ruanda,RWA,RWA,RWA,África,Rwanda,Rwanda,Republic of Rwanda,RW,Rwandan franc,Sub-Saharan Africa,RW,17.80805705829903,39.52623171248763,0.1123074357747099,3.7330203939367226,328.25978138204346,1266.6628221267847,7383050.46875,26340.0
+Santo Tomé y Príncipe,STP,STP,STP,África,São Tomé and Principe,São Tomé and Principe,Democratic Republic of São Tomé and Principe,ST,São Tomé and Principe dobra,Sub-Saharan Africa,ST,63.38260869565218,11.835810171724315,-0.0247567286714911,5.371196007728579,1004.3622981135544,2814.1770708244208,131915.296875,960.0
+Senegal,SEN,SEN,SEN,África,Senegal,Senegal,Republic of Senegal,SN,West African CFA franc,Sub-Saharan Africa,SN,48.8669041188558,19.132203787149265,-0.1595298493242201,4.32708752155304,829.7034162552607,2600.4194509378776,8689411.65625,196710.0
+Seychelles,SYC,SEY,SEY,África,Seychelles,Seychelles,Republic of Seychelles,SC,Seychelles rupee,Sub-Saharan Africa,SC,96.67900848388672,3.888284245614509,0.7795259890456993,5.387809934038103,6768.16785812956,19479.76233978613,72803.53125,460.0
+Sierra Leona,SLE,SLE,SLE,África,Sierra Leone,Sierra Leone,Republic of Sierra Leone,SL,Sierra Leonean leone,Sub-Saharan Africa,SL,16.778260869565216,44.0197533149,-0.7851468448837595,4.303016369993037,283.45284799803414,1102.902463520982,4655061.84375,72300.0
+Somalia,SOM,SOM,SOM,África,Somalia,Somalia,Somali Democratic Republic,SO,Somali shilling,Sub-Saharan Africa,SO,34.63478260869565,57.55080544760349,-1.6160893440246575,0.6188513427972795,251.27645294842648,882.2521831790556,8157175.859375,637660.0
+Suazilandia,SWZ,SWZ,SWZ,África,Eswatini,Eswatini,Kingdom of Eswatini,SZ,Swazi lilangeni,Sub-Saharan Africa,SZ,51.93478260869565,17.45897828442937,-0.1813826595122615,5.675220815758956,1701.5412911318333,6579.335392106247,815530.421875,17360.0
+Sudáfrica,ZAF,RSA,RSA,África,South Africa,South Africa,Republic of South Africa,ZA,South African rand,Sub-Saharan Africa,ZA,80.06722739890769,4.3200564527294265,0.1300314390682616,5.182884245207815,3602.799974975117,10784.240237138943,38946341.28125,1219090.0
+Sudán,SDN,SUD,SDN,África,Sudan,Sudan,Republic of the Sudan,SD,Sudanese pound,Sub-Saharan Africa,SD,37.21959200772372,34.21922823849317,-1.3233251571655285,1.4420828478676928,621.150776982308,3269.2437421013337,23609783.3125,2402890.3278688523
+Sudán del Sur (República de Sudán del Sur),SSD,SSD,SSD,África,South Sudan,South Sudan,Republic of South Sudan,SS,South Sudanese Pound,Sub-Saharan Africa,SS,4.4750000000000005,6.643711518267945,-1.5863598401729868,1.1713525056839005,1378.4750620335913,2170.219340113401,6129511.171875,646883.0
+Tanzania,TZA,TAN,TAN,África,Tanzania,Tanzania,United Republic of Tanzania,TZ,Tanzanian shilling,Sub-Saharan Africa,TZ,17.504911619617094,26.69956493244612,-0.5716701795657477,3.523711624145508,532.0441298484806,1862.0966545553777,30722664.140625,947300.0
+Togo,TGO,TOG,TOG,África,Togo,Togo,Republic of Togo,TG,West African CFA franc,Sub-Saharan Africa,TG,35.690919998168944,25.55739945766057,-0.8609691510597864,3.293411880731584,487.4987072587157,1655.5986783672686,4448328.703125,56790.0
+Túnez,TUN,TUN,TUN,África,Tunisia,Tunisia,Republic of Tunisia,TN,Tunisian dinar,Middle East & North Africa,TN,97.48275862068964,12.765576916772604,-0.1188476057335112,6.04229790588905,1984.479493034888,8433.073025499329,8360605.890625,163610.0
+Uganda,UGA,UGA,UGA,África,Uganda,Uganda,Republic of Uganda,UG,Ugandan shilling,Sub-Saharan Africa,UG,17.072143214146298,42.25650756839484,-0.9726940840482712,2.671717331959651,355.4625695578551,1675.2895203924136,21743424.078125,241550.0
+Yibuti,DJI,DJI,DJI,África,Djibouti,Djibouti,Republic of Djibouti,DJ,Djibouti franc,Middle East & North Africa,DJ,58.498589551007306,1.4368903597770972,-0.6170919425785542,6.566309353884529,1426.271053382518,5230.609755568248,567597.53125,23200.0
+Zambia,ZMB,ZAM,ZAM,África,Zambia,Zambia,Republic of Zambia,ZM,New Zambian kwacha,Sub-Saharan Africa,ZM,25.470565009839607,12.357124773126795,-0.5641802338262399,3.71827214672452,698.678735350959,2546.693527166116,9235383.0,752610.0
+Zimbabue,ZWE,ZIM,ZIM,África,Zimbabwe,Zimbabwe,Republic of Zimbabwe,ZW,Zimbabwean Dollar,Sub-Saharan Africa,ZW,37.97341938634072,14.691535283017064,-1.2313465947906173,8.806114344369794,776.4393085535996,2245.202630329947,9776680.109375,390760.0
+Antigua y Barbuda,ATG,ANT,ATG,América,Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,AG,East Caribbean dollar,Latin America & Caribbean,AG,98.20228955817944,1.8138842332327625,0.8011964534719783,2.8625078712190906,10995.61015004306,21246.10573226727,72316.78125,440.0
+Argentina,ARG,ARG,ARG,América,Argentina,Argentina,Argentine Republic,AR,Argentine peso,Latin America & Caribbean,AR,96.92979805686258,7.474223201714285,-0.3469216087833047,3.4641902474469912,7948.212148594971,16134.98260599481,33202795.546875,2780400.0
+Bahamas,BHS,BAH,BAH,América,The Bahamas,"Bahamas, The",Commonwealth of The Bahamas,BS,Bahamian dollar,Latin America & Caribbean,BS,100.0,1.408494946372398,1.2644202907880149,2.686560000692094,15149.11976807202,27497.280747103832,278462.375,13880.0
+Barbados,BRB,BAR,BRB,América,Barbados,Barbados,Barbados,BB,Barbados dollar,Latin America & Caribbean,BB,99.9932236180161,3.4342699282262417,1.4049003720283502,5.3152741835667525,8680.732670081503,14288.021130250054,259619.59375,430.0
+Belice,BLZ,BIZ,BLZ,América,Belize,Belize,Belize,BZ,Belize dollar,Latin America & Caribbean,BZ,84.96972165107726,12.630507775326477,-0.1597543898193786,5.014257203964959,3134.9607742366734,8608.960090390301,217794.765625,22970.0
+Bolivia,BOL,BOL,BOL,América,Bolivia,Bolivia,Plurinational State of Bolivia,BO,Bolivian Boliviano,Latin America & Caribbean,BO,80.0859283525942,14.746788084602262,-0.6809913602968057,7.39653303888109,1197.7930823852034,5226.5415776379,7567470.171875,1098580.0
+Brasil,BRA,BRA,BRA,América,Brazil,Brazil,Federative Republic of Brazil,BR,Brazilian real,Latin America & Caribbean,BR,96.40532583399916,8.256710564126614,-0.1831695767274747,5.192518721456113,6597.142822585494,12020.915236154391,150663705.28125,8515770.0
+Canadá,CAN,CAN,CAN,América,Canada,Canada,Canada,CA,Canadian dollar,North America,CA,100.0,1.8674023438039693,1.8909337023893995,5.83574670426389,23222.467759154977,37184.085506083145,28226290.96875,9974088.68852459
+Chile,CHL,CHI,CHI,América,Chile,Chile,Republic of Chile,CL,Chilean peso,Latin America & Caribbean,CL,97.98610450963248,6.237683280917486,1.276511882742245,3.8640242508479528,5680.24319335395,16051.149141745833,13717895.0625,756155.4098360656
+Colombia,COL,COL,COL,América,Colombia,Colombia,Republic of Colombia,CO,Colombian peso,Latin America & Caribbean,CO,95.88877142703896,14.697485459030728,-0.3341293682654698,3.943599673112233,2724.0319582213906,10420.722187229723,33668811.984375,1141712.8049180326
+Costa Rica,CRI,CRC,CRC,América,Costa Rica,Costa Rica,Republic of Costa Rica,CR,Costa Rican colon,Latin America & Caribbean,CR,99.21304347826089,14.427187141705854,0.5609578440586727,5.5770596424738565,4239.973693721457,12722.669711321229,3304390.6875,51100.0
+Cuba,CUB,CUB,CUB,América,Cuba,Cuba,Republic of Cuba,CU,Cuban peso,Latin America & Caribbean,CU,98.07391304347826,8.018177587881612,0.1860877696114281,9.44832710425059,3558.806362473081,,10224931.28125,109888.03278688523
+Dominica,DMA,DMA,DMA,América,Dominica,Dominica,Commonwealth of Dominica,DM,East Caribbean dollar,Latin America & Caribbean,DM,90.99287670898435,15.057615799651654,0.7086138824621836,4.68797859123775,4725.961703560137,9123.536562895337,69151.75,750.0
+Ecuador,ECU,ECU,ECU,América,Ecuador,Ecuador,Republic of Ecuador,EC,U.S. dollar,Latin America & Caribbean,EC,96.3003370193743,17.552246340814364,-0.6754185383518537,3.8442391604185104,2547.7683917537797,8615.439104325793,10911625.203125,272862.2950819672
+El Salvador,SLV,ESA,SLV,América,El Salvador,El Salvador,Republic of El Salvador,SV,U.S. dollar,Latin America & Caribbean,SV,88.30351641513062,19.038939824104137,-0.508193051442504,3.5035595893859863,1841.937643072151,6198.242282261032,5075701.8125,21040.0
+Estados Unidos,USA,USA,USA,América,United States,United States,United States of America,US,U.S. dollar,North America,US,100.0,1.079198375831867,1.3903871973355597,5.8201634883880615,29100.65818290972,46176.00375304122,258734856.40625,9675932.62295082
+Granada,GRD,GRN,GRN,América,Grenada,Grenada,Grenada,GD,East Caribbean dollar,Latin America & Caribbean,GD,89.52677858886716,7.852887706838699,0.5627327139178911,4.303354001045227,4944.516086274973,9711.844088468171,105445.671875,340.0
+Guatemala,GTM,GUA,GUA,América,Guatemala,Guatemala,Republic of Guatemala,GT,Guatemalan quetzal,Latin America & Caribbean,GT,82.67886232648577,20.127743516857628,-0.7852652644117676,2.6400308660838925,1770.438595254061,6861.695827716702,9983785.1875,108890.0
+Guyana,GUY,GUY,GUY,América,Guyana,Guyana,Co-operative Republic of Guyana,GY,Guyana dollar,Latin America & Caribbean,GY,80.79552972880859,25.578034596388463,-0.4452010709792375,5.398165597915651,2425.0715946613554,10778.468746681789,740965.265625,214970.0
+Haití,HTI,HAI,HAI,América,Haiti,Haiti,Republic of Haiti,HT,Haitian gourde,Latin America & Caribbean,HT,37.274967956542966,21.395760177504755,-1.300207962592444,1.3370399991671256,589.9799976710377,2598.3836785046824,7379137.09375,27750.0
+Honduras,HND,HON,HON,América,Honduras,Honduras,Republic of Honduras,HN,Honduran lempira,Latin America & Caribbean,HN,75.52439593749999,22.103261288566905,-0.8876662949721018,4.8153737261891365,1158.929972170087,3708.512830485608,5700087.59375,112490.0
+Jamaica,JAM,JAM,JAM,América,Jamaica,Jamaica,Jamaica,JM,Jamaican dollar,Latin America & Caribbean,JM,88.8035761410097,6.567473517167913,-0.2127559250220656,5.040636748075485,2688.335994795741,7831.529639404161,2354260.453125,10990.0
+México,MEX,MEX,MEX,América,Mexico,Mexico,United Mexican States,MX,Mexican peso,Latin America & Caribbean,MX,98.05456325434729,6.061700961613159,-0.5786532604446014,4.285287848540714,5132.0758440033,15077.005518590406,84063561.203125,1964379.3442622952
+Nicaragua,NIC,NCA,NCA,América,Nicaragua,Nicaragua,Republic of Nicaragua,NI,Nicaraguan gold cordoba,Latin America & Caribbean,NI,77.77305371575521,16.889115625814878,-0.8274960095683732,3.659818161617625,1290.2555774061889,3952.600027434717,4329642.5625,130370.0
+Panamá,PAN,PAN,PAN,América,Panama,Panama,Republic of Panama,PA,Panamanian balboa,Latin America & Caribbean,PA,84.84501252145478,6.11234437775352,-0.4065702045336367,3.6641564002403846,5126.946820314046,16857.94971532745,2629503.21875,75406.88524590163
+Paraguay,PRY,PAR,PAR,América,Paraguay,Paraguay,Republic of Paraguay,PY,Paraguayan guarani,Latin America & Caribbean,PY,94.76509170680455,21.25285371636082,-1.0488943159580233,3.1406487941741945,2270.1599769867044,9867.786522351513,4238454.75,406750.39344262297
+Perú,PER,PER,PER,América,Peru,Peru,Republic of Peru,PE,Peruvian new sol,Latin America & Caribbean,PE,82.12153506998173,10.842403495737615,-0.424047742659847,3.301962976102476,3473.11155955048,8356.892531093006,22323222.203125,1285220.0
+República Dominicana,DOM,DOM,DOM,América,Dominican Republic,Dominican Republic,Dominican Republic,DO,Dominican peso,Latin America & Caribbean,DO,92.67182159423828,12.269119527428854,-0.7387363004187742,2.523654602468014,2822.3692460228185,10908.717790473003,7329601.921875,53497.99885245902
+San Cristóbal y Nieves,KNA,SKN,SKN,América,St. Kitts and Nevis,St. Kitts and Nevis,St. Kitts and Nevis,KN,East Caribbean dollar,Latin America & Caribbean,KN,96.70356329715614,3.1915137195352385,0.7703151173497499,3.270823421149419,7994.98368265024,20227.61909768232,45957.546875,288.0327868852459
+San Vicente y las Granadinas,VCT,VIN,VIN,América,St. Vincent and the Grenadines,St. Vincent and the Grenadines,St. Vincent and the Grenadines,VC,East Caribbean dollar,Latin America & Caribbean,VC,87.21884865760804,8.614294312664331,0.8534903243968364,5.563478217405431,3255.951668216094,9813.571479177366,106013.859375,390.0
+Santa Lucía,LCA,LCA,LCA,América,St. Lucia,St. Lucia,St. Lucia,LC,East Caribbean dollar,Latin America & Caribbean,LC,94.75217391304348,2.2605907135213785,0.858120952781878,4.236017107963561,6528.357357439611,12320.101150732487,140852.265625,620.0
+Surinam,SUR,SUR,SUR,América,Suriname,Suriname,Republic of Suriname,SR,Suriname dollar,Latin America & Caribbean,SR,95.58433583333334,8.885874115121144,-0.121137777226977,5.111166675885518,3027.431089332147,11991.519228499914,446797.703125,163820.0
+Trinidad y Tobago,TTO,TTO,TRI,América,Trinidad and Tobago,Trinidad and Tobago,Republic of Trinidad and Tobago,TT,Trinidad and Tobago dollar,Latin America & Caribbean,TT,98.65652173913044,2.651812710389481,-0.0869669778427729,3.8105076551437382,7488.550441847316,20654.63296341866,1233667.421875,5130.0
+Uruguay,URY,URU,URU,América,Uruguay,Uruguay,Oriental Republic of Uruguay,UY,Uruguayan peso,Latin America & Caribbean,UY,98.44519943729524,8.517231660068799,1.2376972337563832,3.2330286780993145,6394.231669408436,16177.921592304288,3097935.875,176220.0
+Venezuela,VEN,VEN,VEN,América,Venezuela,"Venezuela, RB",República Bolivariana de Venezuela,VE,Venezuelan bolivar fuerte,Latin America & Caribbean,VE,99.06345806678426,5.17388311280554,-1.2248230079809832,4.480655026435852,4114.993085963378,12813.589067553416,20194376.875,912050.0
+Aruba,ABW,ARU,ARU,América,Aruba,Aruba,Aruba,AW,Aruban florin,Latin America & Caribbean,AW,99.4724454012784,0.1037284668044159,1.1393865472392033,5.325763534097111,21735.275012557344,33223.072570101904,77906.5,180.0
+Bermudas,BMU,BER,BER,América,Bermuda,Bermuda,The Bermudas,BM,Bermuda dollar,North America,BM,100.0,0.4815750619245741,1.2607274850209549,2.286170811653138,45041.47580936765,63951.63014897758,58366.53125,678.983606557377
+Groenlandia,GRL,,,América,Greenland,Greenland,Greenland,GL,Danish krone,Europe & Central Asia,GL,100.0,16.37079973155278,1.1431821584701536,,24176.256864802264,40780.267676530944,51793.734375,369876.2295081967
+Islas Caimán,CYM,CAY,CAY,América,Cayman Islands,Cayman Islands,Cayman Islands,KY,Cayman Islands dollar,Latin America & Caribbean,KY,99.98896905147669,0.3589579188564666,0.9968462027609344,2.1130000352859497,82931.66361920148,70652.80392540498,32717.109375,264.0
+Islas Malvinas,FLK,,,América,,,,,,,,,,,,,,,
+Montserrat,MSR,,MSR,América,,,,,,,,,,,,,,,
+Puerto Rico,PRI,PUR,PUR,América,Puerto Rico,Puerto Rico,Puerto Rico,PR,U.S. dollar,Latin America & Caribbean,PR,99.99924677068536,2.0422220997560485,0.4849549935412745,6.722450017929077,13405.903390697831,28060.414185740465,3297588.59375,8870.0
+Martinica,MTQ,,,América,,,,,,,,,,,,,,,
+Australia,AUS,AUS,AUS,Oceanía,Australia,Australia,Commonwealth of Australia,AU,Australian dollar,East Asia & Pacific,AU,100.0,2.7750702799684888,1.8690128525098164,5.1745198832617865,24368.70077891378,36604.99890041269,17631488.421875,7741220.0
+Fiyi,FJI,FIJ,FIJ,Oceanía,Fiji,Fiji,Republic of Fiji,FJ,Fijian dollar,East Asia & Pacific,FJ,86.039404296875,17.23709540352367,0.3354673599824309,5.199881911277771,2375.4322285582366,7957.225973917012,734598.765625,18270.0
+Kiribati,KIR,KIR,,Oceanía,Kiribati,Kiribati,Republic of Kiribati,KI,Australian dollar,East Asia & Pacific,KI,75.46521739130435,,0.2056999271245379,11.645835988661826,1034.7312363459623,1934.640879971989,82000.0,810.0
+Islas Marshall,MHL,MHL,,Oceanía,Marshall Islands,Marshall Islands,Republic of the Marshall Islands,MH,U.S. dollar,East Asia & Pacific,MH,84.7468431614696,11.997094019430667,-0.021493707169106,10.130931949615478,2362.696853765396,3547.780380110882,39758.578125,180.0
+Micronesia,FSM,FSM,,Oceanía,Micronesia,"Micronesia, Fed. Sts.",Federated States of Micronesia,FM,U.S. dollar,East Asia & Pacific,FM,65.91739130434782,25.1917615402801,0.2521517680663812,10.860070792111474,1914.8231764475304,2854.7223242889563,89961.75,700.0
+Nauru,NRU,NRU,,Oceanía,Nauru,Nauru,Republic of Nauru,NR,Australian dollar,East Asia & Pacific,NR,99.32557608864524,,0.1391436344711109,6.34419549595226,5646.790691936352,7084.524467169495,9005.328125,20.0
+Nueva Zelanda,NZL,NZL,NZL,Oceanía,New Zealand,New Zealand,New Zealand,NZ,New Zealand dollar,East Asia & Pacific,NZ,100.0,7.096037946961868,2.2392921249071764,5.24448435647147,17868.10876661,29710.62943225263,3627485.9375,267710.0
+Palaos,PLW,PLW,,Oceanía,Palau,Palau,Republic of Palau,PW,U.S. dollar,East Asia & Pacific,PW,98.45112799442175,3.742695372153177,0.0781715134779612,7.749056498209637,7579.77745924809,13398.003982238992,15327.6875,460.0
+Papúa Nueva Guinea,PNG,PNG,PNG,Oceanía,Papua New Guinea,Papua New Guinea,The Independent State of Papua New Guinea,PG,Papua New Guinea kina,East Asia & Pacific,PG,15.002978791130912,30.26444859442998,-0.9219351621965568,4.11915749311447,1087.8734495585122,2896.245991994685,4990781.28125,462840.0
+Islas Salomón,SLB,SOL,SOL,Oceanía,Solomon Islands,Solomon Islands,Solomon Islands,SB,Solomon Islands dollar,East Asia & Pacific,SB,38.05,37.35989243214522,-0.1080537727102637,5.422581502369472,1117.933397376684,2038.437884087867,368897.03125,28900.0
+Samoa,WSM,SAM,SAM,Oceanía,Samoa,Samoa,Independent State of Samoa,WS,Samoan tala,East Asia & Pacific,WS,92.10168218612672,12.091484825162077,0.255615142484506,4.352049204019399,1903.026886651067,4355.914543136407,172193.09375,2840.0
+Tonga,TON,TGA,TGA,Oceanía,Tonga,Tonga,Kingdom of Tonga,TO,Tongan pa'anga,East Asia & Pacific,TO,91.29875214675376,24.469360772001668,-0.4840081655665448,5.228794251169478,2216.136722487568,4380.149262631146,96903.859375,750.0
+Tuvalu,TUV,TUV,,Oceanía,Tuvalu,Tuvalu,Tuvalu,TV,Australian dollar,East Asia & Pacific,TV,97.1217391304348,20.601185798287744,0.0536078319051547,5.642505049705505,1952.486174474543,3141.927619986669,8608.25,30.0
+Vanuatu,VUT,VAN,VAN,Oceanía,Vanuatu,Vanuatu,Republic of Vanuatu,VU,Vanuatu vatu,East Asia & Pacific,VU,38.15367592120992,20.624812705994028,0.1376390650208729,5.773377895355225,1877.2053832710872,2425.0561974782136,170927.0,12190.0
+Guam,GUM,GUM,GUM,Asia,Guam,Guam,Guam,GU,U.S. dollar,East Asia & Pacific,GU,99.98573719371448,,0.9679123727898852,,30954.940271664444,,132636.625,540.0
+Islas Cook,COK,COK,COK,Asia,,,,,,,,,,,,,,,
+Niue,NIU,,,Asia,,,,,,,,,,,,,,,
+Nueva Caledonia,NCL,,NCL,Asia,New Caledonia,New Caledonia,New Caledonia,NC,CFP franc,East Asia & Pacific,NC,99.98573719371448,2.287283586648718,,,17952.414294975017,,182253.0,18580.0
+Polinesia Francesa,PYF,,TAH,Asia,French Polynesia,French Polynesia,French Polynesia,PF,CFP franc,East Asia & Pacific,PF,100.0,2.8070934014656186,,,13349.051302085118,,208108.359375,3809.2131147540986
+Tokelau,TKL,,,Asia,,,,,,,,,,,,,,,
+Wallis y Futuna,WLF,,,Asia,,,,,,,,,,,,,,,
+,AFE,,,,Africa Eastern and Southern,Africa Eastern and Southern,Africa Eastern and Southern,ZH,,,ZH,31.756021016083672,13.177774772149426,,4.410762400854201,822.9781915266633,2830.148058617011,357969930.015625,15120530.435836067
+,AFW,,,,Africa Western and Central,Africa Western and Central,Africa Western and Central,ZI,,,ZI,41.742255144498266,22.44622615094231,,2.8430564800898237,881.552219536582,3104.291490400535,243866245.609375,9166269.50819672
+,ARB,,,,Arab World,Arab World,Arab World,1A,,,1A,85.44642398226503,7.888846523865621,,4.265768736600872,3206.5021061564216,12319.97867322316,249670886.421875,13693321.14590164
+,ASM,ASA,ASA,,American Samoa,American Samoa,American Samoa,AS,U.S. dollar,East Asia & Pacific,AS,,,0.8824891683302432,14.7170495986938,11918.008587843158,,42368.71875,200.0
+,CEB,,,,Central Europe and the Baltics,Central Europe and the Baltics,Central Europe and the Baltics,B8,,,B8,99.3371079906842,3.782421039780742,,4.708865587527935,9737.458603426689,19425.64903228438,104119731.359375,1139658.9686885248
+,CHI,,,,Channel Islands,Channel Islands,Channel Islands,,Pound sterling,Europe & Central Asia,JG,100.0,0.8979523404075817,,,54848.30624548611,,140184.21875,198.0
+,CSS,,,,Caribbean small states,Caribbean small states,Caribbean small states,S3,,,S3,90.22149936525618,7.892821531772418,,,5263.721105798216,13600.413292978104,2483377.578125,435018.0327868852
+,CUW,,CUW,,Curaçao,Curaçao,Curaçao,CW,Netherlands Antillean guilder,Latin America & Caribbean,CW,99.93636363636362,0.4003859378713549,,6.832200050354006,19082.786042155683,24644.92236667212,145288.203125,444.0
+,EAP,,,,East Asia & Pacific (excluding high income),East Asia & Pacific (excluding high income),East Asia & Pacific (excluding high income),4E,,,4E,95.1805616114809,23.126636378774734,,3.3256255517835216,2056.877243979598,7925.132761699004,1586529134.5625,16271345.568180328
+,EAR,,,,Early-demographic dividend,Early-demographic dividend,Early-demographic dividend,V2,,,V2,76.44848924045307,15.118943854316075,,3.999977395648048,1438.6143710375927,6399.961393558663,2149457547.34375,34204119.29463935
+,EAS,,,,East Asia & Pacific,East Asia & Pacific,East Asia & Pacific,Z4,,,Z4,95.66592305145032,10.554417732159262,,3.535046543393816,4043.902156752261,10733.104698748575,1798062747.578125,24824784.830475405
+,ECA,,,,Europe & Central Asia (excluding high income),Europe & Central Asia (excluding high income),Europe & Central Asia (excluding high income),7E,,,7E,99.56144718614937,11.97308911222718,,3.985961773178794,4000.745132487723,11573.476047428108,197900460.34375,23235424.06557377
+,ECS,,,,Europe & Central Asia,Europe & Central Asia,Europe & Central Asia,Z7,,,Z7,99.70425923727994,2.438953918747129,,4.7553211725675135,11794.60643848457,24318.24802444113,824956988.453125,28462032.67377049
+,EMU,,,,Euro area,Euro area,Euro area,XC,,,XC,99.99724889294222,1.8422382090437093,,4.87453671864101,19131.19768153458,33675.65552353999,316476620.8125,2758820.7170491805
+,EUU,,,,European Union,European Union,European Union,EU,,,EU,99.83913024566998,1.876661218663944,,4.925725547472636,16662.448479313603,30979.72856804662,416246067.953125,4156312.151377049
+,FCS,,,,Fragile and conflict affected situations,Fragile and conflict affected situations,Fragile and conflict affected situations,F1,,,F1,48.554677760325546,17.84093227956253,,3.4919144749641413,977.4060924221282,3649.12124815142,551881974.265625,20718431.566983607
+,FRO,,FRO,,Faroe Islands,Faroe Islands,Faroe Islands,FO,Danish krone,Europe & Central Asia,FO,100.0,14.831277300511482,,,26484.782832261728,53580.72835257137,44548.5,1775.142131147541
+,GIB,,GIB,,Gibraltar,Gibraltar,Gibraltar,GI,Gibraltar pound,Europe & Central Asia,GI,99.92121212121212,,,,,,28406.40625,10.0
+,HIC,,,,High income,High income,High income,XD,,,XD,99.77615294502344,1.5483251927541637,,4.755960193173639,19018.370221347097,34257.69936394302,1184339376.734375,37295738.31147541
+,HPC,,,,Heavily indebted poor countries (HIPC),Heavily indebted poor countries (HIPC),Heavily indebted poor countries (HIPC),XE,,,XE,31.392644610520843,26.32063715795498,,3.130723611875014,482.8083061799194,1869.6056663980792,429942824.71875,20301099.50140984
+,IBD,,,,IBRD only,IBRD only,IBRD only,XF,,,XF,92.13366906993886,15.013583205507816,,3.9776117277145375,2159.764515081676,8372.186817534359,3482356250.390625,72905950.32277049
+,IBT,,,,IDA & IBRD total,IDA & IBRD total,IDA & IBRD total,ZT,,,ZT,82.05585633450043,16.436684855022442,,3.6672167430321374,1780.833862080161,6956.425832908892,4463583833.328125,98509044.95532788
+,IDA,,,,IDA total,IDA total,IDA total,XG,,,XG,49.44755335332609,24.10656741187333,,3.239318842237647,612.1798716812071,2678.7145026164053,981227582.9375,25603094.632557377
+,IDB,,,,IDA blend,IDA blend,IDA blend,XH,,,XH,65.65688395438553,22.28629143221368,,4.305756226181983,836.9467342101003,3636.629122942573,321831060.75,4457314.147540984
+,IDX,,,,IDA only,IDA only,IDA only,XI,,,XI,41.63301525077151,25.631871289337663,,3.175630398418593,500.89385365053226,2205.413238551343,659396522.1875,21145780.485016394
+,IMN,,,,Isle of Man,Isle of Man,Isle of Man,IM,Pound sterling,Europe & Central Asia,IM,100.0,0.4586263196408289,,,55340.28822115152,,69264.828125,570.0
+,LAC,,,,Latin America & Caribbean (excluding high income),Latin America & Caribbean (excluding high income),Latin America & Caribbean (excluding high income),XJ,,,XJ,93.76380188217408,5.705678743273158,,4.451886835098269,6098.997465023676,11695.68902087438,403407240.953125,18280580.869344257
+,LCN,,,,Latin America & Caribbean,Latin America & Caribbean,Latin America & Caribbean,ZJ,,,ZJ,94.18295181461524,5.703772114925809,,4.211302199363709,6421.626960196803,12092.048617942028,449404634.90625,20446802.21360655
+,LDC,,,,Least developed countries: UN classification,Least developed countries: UN classification,Least developed countries: UN classification,XL,,,XL,37.13019836460968,24.88257271378501,,2.952777494083752,454.8546532965989,2050.9475577340054,590010467.296875,20778424.632557377
+,LIC,,,,Low income,Low income,Low income,XM,,,XM,29.1829247461802,29.70106141853621,,3.126232254505157,488.52958605364097,1382.503246139623,347041070.015625,14987475.38665574
+,LMC,,,,Lower middle income,Lower middle income,Lower middle income,XN,,,XN,69.08685365587512,25.11072526541407,,3.513821166753769,760.497959793521,4059.9049772537146,1829613034.1875,24786090.143426232
+,LMY,,,,Low & middle income,Low & middle income,Low & middle income,XO,,,XO,81.17415702462517,17.696421339812105,,3.6506456551344497,1609.8854328208408,6445.034582280283,4244089127.078125,95992069.70942624
+,LTE,,,,Late-demographic dividend,Late-demographic dividend,Late-demographic dividend,V3,,,V3,98.11924099763704,14.10474628967044,,4.141422849435073,2989.9023465703376,10337.539918440149,1809468800.296875,45784090.13359017
+,MAF,,,,St. Martin (French part),St. Martin (French part),St. Martin (French part),MF,Euro,Latin America & Caribbean,MF,99.93636363636362,,,,20819.236168944248,,21381.015625,50.0
+,MEA,,,,Middle East & North Africa,Middle East & North Africa,Middle East & North Africa,ZQ,,,ZQ,95.42197764218088,5.727556114223553,,4.775753644796517,3739.240406557869,14073.45244947822,275525377.703125,11387749.818032786
+,MIC,,,,Middle income,Middle income,Middle income,XP,,,XP,86.2758323319338,17.259188537070344,,3.8067466666301097,1737.3367601847835,6975.202542370911,3897048057.0625,81004594.32277048
+,MNA,,,,Middle East & North Africa (excluding high income),Middle East & North Africa (excluding high income),Middle East & North Africa (excluding high income),XQ,,,XQ,94.74180507810182,9.923996992854054,,4.589219238076892,1964.2537355017612,9142.198433925418,242671476.609375,8777391.016393442
+,MNP,,,,Northern Mariana Islands,Northern Mariana Islands,Commonwealth of the Northern Mariana Islands,MP,U.S. dollar,East Asia & Pacific,MP,99.95967384107186,,,,17787.3139362583,,39241.9375,460.0
+,NAC,,,,North America,North America,North America,XU,,,XU,100.0,1.1401871615432255,,6.02026413877805,28513.77826417514,45274.63739976059,287019513.90625,19650700.29508197
+,OED,,,,OECD members,OECD members,OECD members,OE,,,OE,99.67386558795704,1.6234095695309911,,4.908783642021387,18970.28199998749,32599.710967895982,1116668450.140625,37401716.005311474
+,OSS,,,,Other small states,Other small states,Other small states,S4,,,S4,84.84242300438551,3.5946392249211483,,4.924552338463919,7128.325710133599,16814.055458977215,9566879.671875,2077697.5901639345
+,PRE,,,,Pre-demographic dividend,Pre-demographic dividend,Pre-demographic dividend,V1,,,V1,35.50696485654363,20.620299812811574,,2.984080688519912,744.9817443723101,2738.627373890923,501764241.984375,20613124.68939344
+,PSS,,,,Pacific island small states,Pacific island small states,Pacific island small states,S2,,,S2,70.86069238418996,17.397284988482625,,,2088.12571698626,4858.149166280126,1788181.34375,65150.0
+,PST,,,,Post-demographic dividend,Post-demographic dividend,Post-demographic dividend,V4,,,V4,99.91507748626752,1.4075970603565295,,4.968587113751306,21446.793133676227,35698.241295771106,965720598.75,33183546.298754103
+,SAS,,,,South Asia,South Asia,South Asia,8S,,,8S,71.82367232076474,28.0927861941016,,2.5910413539087447,635.1775771923942,3802.0419520313226,1211817442.515625,5140988.24590164
+,SSA,,,,Sub-Saharan Africa (excluding high income),Sub-Saharan Africa (excluding high income),Sub-Saharan Africa (excluding high income),ZF,,,ZF,35.66841588529475,16.90542035303415,,3.3088315671140496,846.913143226172,2939.192079182008,601763372.09375,24286339.944032785
+,SSF,,,,Sub-Saharan Africa,Sub-Saharan Africa,Sub-Saharan Africa,ZG,,,ZG,35.675339206708585,16.891879934649435,,3.3088315671140496,847.5401692466685,2940.886627713669,601836175.625,24286799.944032785
+,SST,,,,Small states,Small states,Small states,S1,,,S1,83.92948652437059,4.838387038243158,,4.924552338463919,5881.473981340947,14712.010940822309,13838438.59375,2577865.62295082
+,SXM,,,,Sint Maarten (Dutch part),Sint Maarten (Dutch part),Sint Maarten (Dutch part),SX,Netherlands Antillean guilder,Latin America & Caribbean,SX,99.93636363636362,0.1049405253800037,,,33650.48696882173,41956.04209142331,23147.71875,34.0
+,TCA,,TCA,,Turks and Caicos Islands,Turks and Caicos Islands,Turks and Caicos Islands,TC,U.S. dollar,Latin America & Caribbean,TC,96.2669638893821,0.8535315991422593,,3.3769570378696208,24418.00618486891,23285.02080289585,17790.875,950.0
+,TEA,,,,East Asia & Pacific (IDA & IBRD),East Asia & Pacific (IDA & IBRD),East Asia & Pacific (IDA & IBRD),T4,,,T4,95.60510083793132,23.084237978519045,,3.3256255517835216,2080.2114740441784,8014.905576664564,1566170495.484375,16150825.568180328
+,TEC,,,,Europe & Central Asia (IDA & IBRD),Europe & Central Asia (IDA & IBRD),Europe & Central Asia (IDA & IBRD),T7,,,T7,99.40816491853091,7.864318090610268,,3.9817629146575935,5743.986989807608,14505.387721410923,407777822.015625,23847707.09836065
+,TLA,,,,Latin America & Caribbean (IDA & IBRD),Latin America & Caribbean (IDA & IBRD),Latin America & Caribbean (IDA & IBRD),T2,,,T2,94.09576517422174,5.857541776367852,,4.125594625473022,6315.477012400561,12021.236968210878,435174547.3125,20311353.164426222
+,TMN,,,,Middle East & North Africa (IDA & IBRD),Middle East & North Africa (IDA & IBRD),Middle East & North Africa (IDA & IBRD),T3,,,T3,94.68691730615552,9.934297738288327,,4.553025841712951,1963.1408741159305,9200.506511223064,240807350.375,8771370.93442623
+,TSA,,,,South Asia (IDA & IBRD),South Asia (IDA & IBRD),South Asia (IDA & IBRD),T5,,,T5,71.82367232076474,28.0927861941016,,2.5910413539087447,635.1775771923942,3802.0419520313226,1211817442.515625,5140988.24590164
+,TSS,,,,Sub-Saharan Africa (IDA & IBRD),Sub-Saharan Africa (IDA & IBRD),Sub-Saharan Africa (IDA & IBRD),T6,,,T6,35.67533920670859,16.891879934649424,,3.3088315671140496,847.5401692466686,2940.886627713671,601836175.625,24286799.944032785
+,UMC,,,,Upper middle income,Upper middle income,Upper middle income,XT,,,XT,97.66507524898164,14.282909615582536,,4.16523751616478,2698.0718078723603,9866.090280733915,2067435022.875,56218504.17934427
+,VGB,IVB,VGB,,British Virgin Islands,British Virgin Islands,British Virgin Islands,VG,U.S. dollar,Latin America & Caribbean,VG,97.76171893495504,,,4.158668430227984,,,17798.890625,150.0
+,VIR,ISV,VIR,,Virgin Islands,Virgin Islands (U.S.),Virgin Islands of the United States,VI,U.S. dollar,Latin America & Caribbean,VI,100.0,,0.5948355136880357,,37339.58558425065,37284.15030934858,93075.03125,350.0
+,WLD,,,,World,World,World,1W,,,1W,83.90697227172988,4.375635738839046,,4.170523717999457,5106.160978464858,11792.490915789293,5448622880.6875,134199858.02090164
+,XKX,KOS,KVX,,Kosovo,Kosovo,Republic of Kosovo,XK,Euro,Europe & Central Asia,XK,100.0,7.986133433206725,-0.4441942572593689,,4005.794795603828,9510.31178235989,1664838.921875,

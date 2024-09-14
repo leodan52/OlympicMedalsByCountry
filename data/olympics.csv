@@ -1,4 +1,4 @@
-Country,Country_name,Country_code_coi,ISO_3166-1,Continente,Num_Summer,gold_summer,silver_summer,bronze_summer,Total_summer,Num_Winter,gold_winter,silver_winter,bronze_winter,Total_winter,Num_Games,gold,silver,bronze,Combined_total
+Country,Country_name,Country_code_coi,ISO_code,Continente,Num_Summer,gold_summer,silver_summer,bronze_summer,Total_summer,Num_Winter,gold_winter,silver_winter,bronze_winter,Total_winter,Num_Games,gold,silver,bronze,Combined_total
 Afghanistan (AFG),Afghanistan,AFG,AFG,Asia,16,0,0,2,2,0,0,0,0,0,16,0,0,2,2
 Albania (ALB),Albania,ALB,ALB,Europa,10,0,0,2,2,5,0,0,0,0,15,0,0,2,2
 Algeria (ALG),Algeria,ALG,DZA,África,15,7,4,9,20,3,0,0,0,0,18,7,4,9,20
@@ -74,7 +74,7 @@ Japan (JPN),Japan,JPN,JPN,Asia,24,189,162,191,542,22,17,29,30,76,46,206,191,221,
 Jordan (JOR),Jordan,JOR,JOR,Asia,12,1,2,1,4,0,0,0,0,0,12,1,2,1,4
 Kazakhstan (KAZ),Kazakhstan,KAZ,KAZ,Asia,8,15,25,38,78,8,1,3,4,8,16,16,28,42,86
 Kenya (KEN),Kenya,KEN,KEN,África,16,39,44,41,124,4,0,0,0,0,20,39,44,41,124
-Kosovo (KOS),Kosovo,KOS,,Europa,3,3,1,1,5,2,0,0,0,0,5,3,1,1,5
+Kosovo (KOS),Kosovo,KOS,XKX,Europa,3,3,1,1,5,2,0,0,0,0,5,3,1,1,5
 North Korea (PRK),North Korea,PRK,PRK,Asia,11,16,18,27,61,9,0,1,1,2,20,16,19,28,63
 South Korea (KOR),South Korea,KOR,KOR,Asia,19,109,100,111,320,19,33,30,16,79,38,142,130,127,399
 Kuwait (KUW),Kuwait,KUW,KWT,Asia,14,0,0,3,3,0,0,0,0,0,14,0,0,3,3
@@ -153,7 +153,7 @@ Uruguay (URU),Uruguay,URU,URY,América,23,2,2,6,10,1,0,0,0,0,24,2,2,6,10
 Uzbekistan (UZB),Uzbekistan,UZB,UZB,Asia,8,18,8,23,49,8,1,0,0,1,16,19,8,23,50
 Venezuela (VEN),Venezuela,VEN,VEN,América,20,3,7,9,19,4,0,0,0,0,24,3,7,9,19
 Vietnam (VIE),Vietnam,VIE,VNM,Asia,17,1,3,1,5,0,0,0,0,0,17,1,3,1,5
-Virgin Islands (ISV),Virgin Islands,ISV,,América,14,0,1,0,1,8,0,0,0,0,22,0,1,0,1
+Virgin Islands (ISV),Virgin Islands,ISV,VIR,América,14,0,1,0,1,8,0,0,0,0,22,0,1,0,1
 Yugoslavia (YUG),Yugoslavia,YUG,,Europa,16,26,29,28,83,14,0,3,1,4,30,26,32,29,87
 Zambia (ZAM),Zambia,ZAM,ZMB,África,15,0,1,2,3,0,0,0,0,0,15,0,1,2,3
 Zimbabwe (ZIM),Zimbabwe,ZIM,ZWE,África,15,3,4,1,8,1,0,0,0,0,16,3,4,1,8
