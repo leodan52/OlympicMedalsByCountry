@@ -3,3 +3,8 @@ notas.txt
 info_countries_ISO_nan.csv
 
 # Directorios
+
+# Archivos
+
+*.pdf
+*.html
