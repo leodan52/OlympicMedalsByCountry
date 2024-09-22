@@ -4,15 +4,47 @@
 
 **OlympicMedalsByCountry** es un proyecto de análisis de datos centrado en las medallas ganadas por diferentes países en los juegos olímpicos, tanto los de verano como los de invierno. Este análisis explorará el rendimiento olímpico de cada país, comparándolo con características geográficas como el continente al que perteneces, el número de habitantes, etcétera.
 
-El proyecto estará estructurado en base a notebooks IPYNB, los cuales incluirán las visualizaciones y estadísticas realizadas para el análisis.
+El proyecto estará estructurado en base a notebooks IPYNB, los cuales incluirán las visualizaciones y estadísticas realizadas para el análisis. Cada notebook tendrá un objetivo diferente: Extracción de datos, tratamiento de datos, análisis descriptivo y análisis predictivo.
 
-Hasta el momento, el proyecto en su fase temprana consta del tratamiento de datos y la primera parte del análisis estadístico descriptivo. Los datos son guardados en dos archivos CSV, donde el principal se puede encontrar en [data/olympics.csv](data/olympics.csv).
+### Objetivo del proyecto
 
-También hay otro archivo llamado [data/info_countries.csv](data/info_countries.csv) con la información de países y una selección de indicadores que se usarán en el análisis de correlación.
+El objetivo principal del presente proyecto es didáctico. Probar ideas para explorar y analizar un conjunto de datos y así encontrar patrones, aplicando conocimientos en Estadística y *Machine Learning*, todo ejecutado con las herramientas que posee Python.
 
-## Estructuctura del proyecto:
+Técnicamente es un proyecto experimental qué trata de incluir varias técnicas de la Ciencia de Datos, tantas como sean posibles, y así practicar el uso de herramientas como Pandas, Seaborn, Matplotlib, Sklearn, entre otras.
+
+## Requerimientos
+El proyecto ha sido desarrollado usando **Python 3.8.10**, con los siguientes módulos,
+
+ * countryinfo==0.1.2
+ * geopandas==0.13.2
+ * googletrans==4.0.0rc1
+ * matplotlib==3.7.1
+ * numpy==1.22.3
+ * pandas==1.4.3
+ * pycountry==24.6.1
+ * requests==2.31.0
+ * scikit_learn==1.3.0
+ * seaborn==0.12.2
+ * Unidecode==1.1.1
+
+Y Pandas y Geopandas requieren otras dependencias para su funcionamiento óptimo. Se usaron lo siguiente,
+
+ * beautifulsoup4==4.12.2
+ * html5lib==1.1
+ * lxml==4.9.3
+ * fiona==1.9.6
+
+Puede instalar estos paquetes exactos usando el archivo `requirements.txt`, ejecutando la siguiente linea en terminal:
+
+```bash
+pip install -r requirements.txt
+```
+
+## Estructuctura del proyecto
  0. [Extracción y tratamiento de datos](00-Tratamiento_de_Datos.ipynb)
- 1. [Análisis descriptivo (en proceso)](01-Analisis_estadistico_descriptivo.ipynb)
+    * [Anexo: Extracción de indicadores del Banco mundial](Anexo_Tratamiento_datos_WBG.ipynb)
+ 1. [Análisis descriptivo](01-Analisis_estadistico_descriptivo.ipynb)
+ 2. [Análisis predictivo (en proceso)](02-Analisis_predictivo.ipynb)
 
 ## Fuentes
 
