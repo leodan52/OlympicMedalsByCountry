@@ -41,10 +41,10 @@ pip install -r requirements.txt
 ```
 
 ## Estructuctura del proyecto
- 0. [Extracción y tratamiento de datos](00-Tratamiento_de_Datos.ipynb)
-    * [Anexo: Extracción de indicadores del Banco mundial](Anexo_Tratamiento_datos_WBG.ipynb)
- 1. [Análisis descriptivo](01-Analisis_estadistico_descriptivo.ipynb)
- 2. [Análisis predictivo (en proceso)](02-Analisis_predictivo.ipynb)
+ 0. [00-Tratamiento_de_Datos.ipynb](00-Tratamiento_de_Datos.ipynb): Extracción y tratamiento de datos.
+    * [Anexo_Tratamiento_datos_WBG.ipynb](Anexo_Tratamiento_datos_WBG.ipynb)Anexo: Extracción de indicadores del Banco mundial
+ 1. [01-Analisis_estadistico_descriptivo.ipynb](01-Analisis_estadistico_descriptivo.ipynb): Análisis descriptivo usando estadística básica y de análisis de correlación para encontrar patrones en los datos.
+ 2. [02-Analisis_predictivo.ipynb](02-Analisis_predictivo.ipynb): Creación de modelos de *Machine Learning* para clasificación con el objetivo de relacionar los parámetros olímpicos con factores externos al analizar las contribuciones de cada factor en cada modelo predictivo.
 
 ## Fuentes
 
